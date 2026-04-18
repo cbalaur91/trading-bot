@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash scripts/alpaca.sh account)",
+      "Bash(awk -F= '/^ALPACA_API_KEY=/ {print \"key_len=\" length\\($2\\) \" first=\" substr\\($2,1,4\\) \" last=\" substr\\($2,length\\($2\\)-3,4\\)} /^ALPACA_SECRET_KEY=/ {print \"sec_len=\" length\\($2\\) \" first=\" substr\\($2,1,4\\) \" last=\" substr\\($2,length\\($2\\)-3,4\\)} /^ALPACA_ENDPOINT=/ {print \"endpoint=\" $2}' .env)",
+      "Bash(curl -sS -o scripts/paper.json -w \"http=%{http_code}\\\\n\" -H \"APCA-API-KEY-ID: PK7SFE72BGHGHI43UIHS67E6KR\" -H \"APCA-API-SECRET-KEY: J1YHKwBheSMpnKdJGApGXgMic2UskPVK1YFzbxvFF6CA\" https://paper-api.alpaca.markets/v2/account)",
+      "Bash(curl -sS -H \"APCA-API-KEY-ID: PK7SFE72BGHGHI43UIHS67E6KR\" -H \"APCA-API-SECRET-KEY: J1YHKwBheSMpnKdJGApGXgMic2UskPVK1YFzbxvFF6CA\" https://paper-api.alpaca.markets/v2/positions)",
+      "Bash(curl -sS -H \"APCA-API-KEY-ID: PK7SFE72BGHGHI43UIHS67E6KR\" -H \"APCA-API-SECRET-KEY: J1YHKwBheSMpnKdJGApGXgMic2UskPVK1YFzbxvFF6CA\" \"https://paper-api.alpaca.markets/v2/orders?status=open\")"
+    ]
+  }
+}
