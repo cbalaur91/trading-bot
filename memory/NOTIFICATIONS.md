@@ -31,3 +31,12 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-04-20 15:03 UTC
+EOD Apr 20
+Portfolio: $100,002.02 (+0.002% day, +0.002% phase)
+Cash: $100,002.02 (100%)
+Trades today: SELL SNDK +$1.17, SELL CIEN +$2.59, SELL LITE -$0.64
+Open positions: none
+Tomorrow: pre-market must pick 2-3 names, deploy 15-20% sizing with 10% trailing-stop GTCs. Week trade cap: 3 new entries.
