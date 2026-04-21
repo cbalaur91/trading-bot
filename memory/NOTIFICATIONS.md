@@ -31,3 +31,7 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-04-21 08:37 UTC
+market-open 4/21: queued XLE 345, XLI 109, XLB 363 (market/day, opens 09:30); sector momentum tilt (Energy/Industrials/Materials), ~57% deployed; stops to be placed by midday routine post-fill

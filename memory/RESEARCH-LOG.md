@@ -101,3 +101,43 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-21 — Pre-market Research (market-open run, 04:34 ET)
+
+### Account
+- Equity: $100,002.01
+- Cash: $100,002.01 (100%)
+- Buying power: $200,004.02
+- Daytrade count: 0
+- Positions: none (Mon open flushed CIEN/LITE/SNDK as planned)
+- Open orders: none
+
+### Market Context
+- S&P futures: ES +0.19% to 7,161.75; Dow +0.20%, Nasdaq +0.30%
+- VIX: 19.11 (+1.3%); off Monday's 19.98 but still elevated vs. pre-Hormuz 17.48
+- Today's catalysts: Tim Cook stepping down as Apple CEO (overnight); US-Iran truce extension in question; oil still range-bound on Hormuz headlines
+- Earnings before open: RTX Q1 (defense/industrial) — conference call 8:30 ET; ~82 reports on docket total
+- Economic calendar: Light Tuesday — Fed speakers later this week; no major prints before open
+- Sector momentum (YTD): Energy +20%, Materials +17%, Staples +15%, Industrials +12%; Tech still lagging, S&P effectively flat YTD
+
+### Trade Ideas
+1. XLE — Energy sector ETF, clearest momentum leader YTD (+20%), Hormuz/Iran risk premium tailwind. Entry ~$55, stop -10% ($49.57), target +20% ($66.09), R:R 2:1. Sector ETF avoids single-name earnings risk.
+2. XLI — Industrials ETF, +12% YTD, AI/defense/energy capex tailwinds. Entry ~$174, stop -10% ($156.60), target +20% ($208.63), R:R 2:1. RTX reports today but XLI diversifies away single-name risk.
+3. XLB — Materials ETF, +17% YTD, AI-infra/construction demand. Entry ~$52, stop -10% ($47.01), target +20% ($62.68), R:R 2:1. STLD/CLF steel earnings today but ETF diversified.
+4. (Skipped) Single-name steel/defense plays — earnings-day risk too high.
+5. (Skipped) Tech re-entry (CIEN/SNDK) — fresh flush, no momentum confirmation.
+
+### Risk Factors
+- Workflow running 4:34 ET — market opens 9:30 ET. Orders queued for opening auction. Stops will be placed by midday routine once fills confirm (can't place GTC trailing-stops without existing position).
+- Geopolitical whipsaw: Hormuz headlines + Apple CEO shuffle could move mega-caps; ETF basket diversifies.
+- VIX ~19 — elevated, respect 10% stops.
+- 3 trades placed today hits weekly cap — no more buys this week unless one stops out.
+- S&P at ATH — mean-reversion risk.
+
+### Decision
+TRADE. Queue 3 sector-momentum ETF buys (day TIF) for open fills. Deploy ~57% capital. Stops to be placed by midday routine.
+- XLE 345 sh (~$19.0k / 19.0%)
+- XLI 109 sh (~$18.9k / 18.9%)
+- XLB 363 sh (~$19.0k / 19.0%)
+
+Sources: [Yahoo/futures-premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-and-nasdaq-futures-inch-up-amid-apple-ceo-change-and-iran-uncertainty-231748168.html), [CNBC/Apr20](https://www.cnbc.com/2026/04/19/stock-market-today-live-updates.html), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [Earnings Whispers 4/21](https://www.earningswhispers.com/calendar), [RTX earnings](https://www.rtx.com/news/news-center/2026/03/31/rtx-to-release-first-quarter-earnings-results-on-april-21-2026), [Investing/sector leaders](https://www.investing.com/analysis/materials-and-energy-stocks-take-early-lead-in-2026-200673302), [Morningstar/energy-indust](https://www.morningstar.com/stocks/energy-industrials-stocks-take-lead-market-rotation-continues), [SSGA sector chart pack](https://www.ssga.com/library-content/pdfs/etf/us/state-street-sector-chart-pack-monthly.pdf)
