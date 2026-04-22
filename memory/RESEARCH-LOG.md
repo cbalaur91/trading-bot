@@ -101,3 +101,29 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-22 — Pre-market Research
+
+### Account
+- Equity: $99,781.10
+- Cash: $42,946.26
+- Buying power: $142,727.36 (non-marg $69,363.68)
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 (-0.7%, MV $18,880), XLE 345sh @ $55.35 (+0.9%, MV $19,268), XLI 109sh @ $173.78 (-1.3%, MV $18,687)
+- Open orders: 10% trailing stops GTC on all 3 (hwm $52.04/$55.96/$172.50 → stops $46.83/$50.36/$155.25)
+
+### Market Context
+- Deployment: ~57% — below 75-85% target, but weekly quota exhausted
+- Sector tilt already expressed via XLB/XLE/XLI (Materials/Energy/Industrials — the YTD leaders)
+- Week-to-date: 3 new trades placed Mon/Tue 4/20-21 → AT WEEKLY CAP (strategy rule 8)
+
+### Trade Ideas
+- NONE. Weekly trade count 3/3. Per rulebook: max 3 new trades/week. No opens today regardless of setup quality.
+
+### Risk Factors
+- XLB slightly red but well within trail range; XLI -1.3% — monitor for -7% manual cut line (entry $173.78 → cut ~$161.60)
+- Under-deployed 57% vs. 75-85% target is acceptable given weekly cap; additional capacity unlocks Monday 4/27
+- Geopolitical tail (Hormuz) still live; stops will defend
+
+### Decision
+HOLD — no new entries today. Weekly trade cap reached (3/3). Existing trailing stops defend all positions. Next new-entry window: Mon 4/27. Midday routine will manage losers/winners per rules.
