@@ -101,3 +101,39 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-22 — Pre-market Research
+
+### Account
+- Equity: $100,124.44
+- Cash: $42,946.26 (~43%)
+- Buying power: $143,070.70
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 (-0.57%, $18,912), XLE 345sh @ $55.35 (+1.25%, $19,334), XLI 109sh @ $173.78 (-0.05%, $18,932)
+- Open orders: 10% trailing-stop GTCs on all three (XLB stop $46.83 / HWM $52.04; XLE stop $50.36 / HWM $55.96; XLI stop $155.25 / HWM $172.50)
+- Deployed: ~57% — under the 75–85% target; room for 1 more ~15–20% position
+
+### Market Context
+- WTI / Brent: WTI ~$89.49, Brent ~$99.51 — softening on Trump/Iran ceasefire-extension talk
+- S&P 500 futures: ES +0.5–0.74% to ~7,152; Dow +0.75%, Nasdaq +0.92% — risk-on open setup
+- VIX: ~18.87, easing (was 19.98 Mon) — volatility compressing back toward baseline
+- Today's catalysts: US–Iran ceasefire (set to expire today) — both sides reportedly favor extension; oil/defensives sensitive to any headline shock
+- Earnings before open: PM (Philip Morris); after close — TSLA, BA, T (all market-moving for megacap/indices)
+- Economic calendar: Light — no CPI/PPI/FOMC/NFP today; existing home sales mid-morning. Fed speakers later week
+- Sector momentum: Energy still #1 YTD (+22–34%), Materials +15–22%, Industrials strong; Tech cooling — our XLE/XLB/XLI alignment remains on-trend
+
+### Trade Ideas
+1. HOLD all three sector ETFs — theses intact, trails wide enough for normal chop, no reason to touch
+2. No new buys this week — already used 3/3 weekly trade slots (XLB, XLE, XLI opened 4/21). Next entry window: Monday 4/27
+3. If XLE breaks above HWM $55.96 intraday and pulls back, consider adding on next session (cash avail); re-check against weekly-slot cap first
+4. TSLA/BA earnings tonight → watch for sector spillover into XLI tomorrow; NOT chasing post-print pops
+
+### Risk Factors
+- Ceasefire non-extension headline → oil +5–10%, XLE pop but broad market risk-off; XLI would take the brunt
+- TSLA/BA after-hours prints could swing Nasdaq futures ±1–2% overnight → gap-open risk Thu
+- VIX complacency + S&P at 7,150 ATH → mean-reversion setup
+- Under-deployed at 57% vs 75–85% rule — acceptable this week (trade cap binds), but plan Monday entry to close gap
+- All three positions are cyclical sector ETFs → high correlation; single macro shock hits everything
+
+### Decision
+HOLD. No action pre-market. Weekly trade quota already spent; risk/reward is on managing the book, not adding. Let trails do their job; the next discretionary action is Monday pre-market. Sources: [OilPriceAPI/Brent](https://www.oilpriceapi.com/live/brent-crude-oil-price), [Fortune/Oil](https://fortune.com/article/price-of-oil-04-21-2026/), [Bloomberg/Mkt](https://www.bloomberg.com/news/articles/2026-04-21/stock-market-today-dow-s-p-live-updates), [CNBC/pre](https://www.cnbc.com/pre-markets/), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS/), [Yahoo/Mkt](https://finance.yahoo.com/markets/article/stock-market-today-dow-rises-sp-500-and-nasdaq-notch-fresh-records-as-war-resolution-hopes-grow-230116826.html), [EarningsWhispers](https://www.earningswhispers.com/calendar), [Alphastreet/PM](https://news.alphastreet.com/what-to-expect-when-philip-morris-pm-reports-its-q1-2026-earnings-results/amp/), [Tickeron/XLE](https://tickeron.com/ticker/XLE/), [Schwab/Sector](https://www.schwab.com/learn/story/stock-sector-outlook)
