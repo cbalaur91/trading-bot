@@ -101,3 +101,42 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-23 — Pre-market Research
+
+### Account
+- Equity: $99,958.31
+- Cash: $42,946.26 (43%)
+- Buying power: $142,904.57
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 (now $51.60, -1.5%, $18,731), XLE 345sh @ $55.35 (now $56.74, +2.5%, $19,575), XLI 109sh @ $173.78 (now $171.61, -1.2%, $18,706)
+- Deployed: $57,012 (57%) — under 75-85% target
+- Open orders: 10% trailing-stop GTCs on all 3 ETFs (XLB stop $47.18, XLE stop $51.10, XLI stop $156.53), expire 2026-07-20
+
+### Market Context
+- WTI / Brent: WTI $94.46 (+1.67%), Brent $103.38 (+1.44%) — 4th straight session up; Iran reportedly captured 2 ships in Gulf, Hormuz risk premium elevated
+- S&P 500 futures: ES -0.2%, Dow -222pts (-0.5%), Nasdaq -0.2% — pullback after fresh S&P/NDX ATHs
+- VIX: 18.92 (-2.97%) — moderate, no panic
+- Today's catalysts: US-Iran peace talks stalled (Trump says truce "indefinite"); strong earnings season (81% beat EPS, 76% beat rev of 87 reporters)
+- Earnings before open: AXP, NEE, TMO, HON, UNP, LMT (MISS), AAL (cut '26 EPS on oil costs), CMCSA (beat), BX, FCX, GILD, NEM. Tesla reported after 4/22 close (capex up → premarket weak)
+- Economic calendar: Initial jobless claims (prior 207K, low); no major Fed/CPI/PPI today
+- Sector momentum: Energy +21% YTD leader, Materials +17%, Staples +15%, Industrials +12% — late-cycle rotation intact; Tech +11% MTD on AI strength; XLE/XLB in "Leading" RRG quadrant
+
+### Trade Ideas
+1. HOLD all 3 ETF positions — XLE green, trail stop locked in profit zone (HWM $56.78, stop $51.10). XLB/XLI red but within first-week noise; trails set 10% below cost.
+2. Potential add: XLE on dip — oil/Hormuz tailwind intact; if pullback to $55.50–56.00 area, add ~$10K to bring sector exposure to ~10% of equity. Stop -7% from add. SKIP if Iran peace breakthrough.
+3. Defensive hedge: XLP (Staples) +15% YTD, leading-quadrant defensive. Could add ~$10K as ballast against geopolitical/earnings shock. Entry at current, 7% stop, 2:1 target.
+4. Avoid: chasing Tech (TSLA capex shock, NOW slowdown signal), Defense (LMT miss), Airlines (AAL guide cut on oil).
+
+### Risk Factors
+- 100% cyclical concentration (XLB/XLE/XLI) — no defensive hedge if growth scare hits
+- Oil spike is double-edged: bullish XLE, bearish XLI/XLB (input costs) and broad market (AAL guide cut already showing it)
+- Late-cycle leaders (Energy/Materials) extended vs. 50-DMA → mean-reversion risk per multiple analysts
+- Iran-US no-deal headline risk — futures already off; binary on overnight news
+- Hit 3-trade weekly cap on 4/21 (XLB/XLE/XLI) — no new entries allowed until 4/28 unless overriding catalyst
+- Under-deployed at 57% (target 75-85%) — but breaking weekly cap to fix is worse than staying patient
+
+### Decision
+HOLD. Trail stops doing their job; XLE working. Weekly 3-trade quota already used (4/21 entries). Under-deployment will resolve next week with planned XLP/XLE adds — discipline beats activity. Monitor for: (a) oil >$100 sustained → XLE add candidate; (b) any held position breaching -7% manual cut; (c) Iran headline reversal.
+
+Sources: [Oneindia/oil](https://www.oneindia.com/india/crude-oil-rates-today-april-23-2026-brent-crude-crosses-100-per-barrel-check-latest-prices-of-w-8066837.html), [TheStreet/markets](https://www.thestreet.com/latest-news/stock-market-today-apr-23-2026-updates), [CNBC/futures](https://www.cnbc.com/2026/04/22/stock-market-today-live-updates.html), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [Earnings Whispers](https://www.earningswhispers.com/calendar/20260423/3), [Schwab/sectors](https://www.schwab.com/learn/story/stock-sector-outlook), [Investing/rotation](https://www.investing.com/analysis/sector-rotation-intensifies-value-outperforms-growth-in-2026-market-split-200675093), [TradingEconomics/claims](https://tradingeconomics.com/united-states/jobless-claims)
