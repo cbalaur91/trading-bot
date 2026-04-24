@@ -31,3 +31,13 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-04-24 16:19 UTC
+Week ending Apr 24
+Portfolio: $100,048.48 (+0.05% week, +0.05% phase) vs S&P 500: -0.7%
+Trades: 6 (W:2 / L:1 / open:3)
+Best: CIEN +2.59%
+Worst: LITE -1.74%
+One-line takeaway: Flush & sector-ETF reset worked; still under-deployed at 57%, need 1-2 single-name conviction adds next week.
+Grade: B-

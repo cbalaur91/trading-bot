@@ -98,3 +98,64 @@ Friday reviews appended here. Template for each entry:
 ### Overall Grade: D
 
 Rationale: scaffold works and research is disciplined, but the first real trading window saw ~0% deployment into a +4.5% S&P week and stops-rule violated on all 3 opens. Saved from F only because the positions are tiny and losses immaterial.
+
+## Week ending 2026-04-24
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,999.63 |
+| Ending portfolio | $100,048.48 |
+| Week return | +$48.85 (+0.05%) |
+| S&P 500 week | -0.7% |
+| Bot vs S&P | +0.7% |
+| Trades | 6 (W:2 / L:1 / open:3) |
+| Win rate | 66.7% |
+| Best trade | CIEN +2.59% (realized) |
+| Worst trade | LITE -1.74% (realized) |
+| Profit factor | 2.16 |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+| CIEN | $500.46 | $513.42 | +$2.59 (+2.59%) | Opening MOO sell 4/20, flush per plan |
+| LITE | $909.80 | $894.00 | -$1.74 (-1.74%) | Flush sell 4/20, worst of the three |
+| SNDK | $921.31 | $932.07 | +$1.17 (+1.17%) | Index-inclusion pop into the sell |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $52.40 | $51.885 | -$185.49 (-0.97%) | 10% trail GTC, stop $47.18, hwm $52.42 |
+| XLE | $55.35 | $56.33 | +$339.49 (+1.78%) | 10% trail GTC, stop $51.47, hwm $57.19 |
+| XLI | $173.78 | $172.79 | -$107.54 (-0.57%) | 10% trail GTC, stop $157.31, hwm $174.79 |
+
+### What Worked
+- Flush-and-reset executed cleanly: 3 fractional toe-dips closed at open Mon, full capital back in play same session
+- 10% trailing-stop GTCs placed IN the same session as entries — rule 4 observed on all 3 new positions
+- Sector-momentum sizing: Energy/Materials/Industrials ETFs (XLE/XLB/XLI) instead of chasing extended single names
+- Mildly positive week (+0.05%) in a mildly negative S&P tape (≈-0.7%) = first week of relative outperformance
+- Closed trades: 2W/1L, profit factor 2.16 — small sample, but the wins were bigger than the loss
+
+### What Didn't Work
+- Capital still under-deployed: ~57% gross long vs 75-85% target — one more sizable position needed
+- Only 3 ETF positions, no single-name alpha; basket exposure = basically tracking the sector, giving up idiosyncratic edge
+- No mid-week adds despite pre-market research calling STLD/CLF and energy singles — execution gap between research and market-open routine
+- Entered Tue 4/21 near intraweek highs; XLE gave back most of the pop by Friday, XLB and XLI still underwater
+- Pre-market research only logged 4/18 and 4/20 — gaps Tue-Fri; routine adherence slipped mid-week
+
+### Key Lessons
+- Clean execution beats clever ideas: flushing losers + placing trail stops same-session is the single highest-leverage behavior
+- ETF baskets are fine as sector expressions but they are not trades — they are the macro. Still need 1-2 single-name conviction bets
+- "Follow sector momentum" works: Energy/Materials/Industrials tilt chosen from research produced the only green position
+- Discipline gap is mostly in the middle of the week, not the edges. Need a Wed/Thu adherence check
+
+### Adjustments for Next Week
+- Deploy to 75-80% by Wed: add 1-2 single-name positions at 15-20% each (energy/industrial leader or CIEN re-entry on base)
+- Enforce daily pre-market log M-F; if skipped, no new entries that day
+- Keep 10% trail GTC as entry-paired order — no exceptions
+- Don't chase XLE after +1.8% gain; let the trail do its job, consider trimming only if it hits +15% (then tighten trail to 7%)
+
+### Overall Grade: B-
+
+Rationale: execution improved meaningfully — trail stops placed, flush completed, sector thesis expressed. Beat the S&P on relative basis. Still light on deployment (~57% vs 75-85%) and zero single-name exposure, so not yet producing real alpha. Solid recovery from a D week; one more step up in sizing and conviction gets an A.
