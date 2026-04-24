@@ -101,3 +101,38 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-24 — Pre-market Research
+
+### Account
+- Equity: $100,178.87
+- Cash: $42,946.26 (43%)
+- Buying power: $143,125.13
+- Daytrade count: 0
+- Positions: XLB 363sh @$52.40 ($18,713, -1.6%), XLE 345sh @$55.35 ($19,496, +2.1%), XLI 109sh @$173.78 ($19,024, +0.4%)
+- Open orders: 10% trailing-stop GTC on all 3 (XLB stop $47.18, XLE stop $51.47, XLI stop $157.31)
+
+### Market Context
+- WTI / Brent: WTI ~$97 (+1.6%), Brent ~$105–107 — geopolitical rally, West Asia supply-disruption fears
+- S&P 500 futures: ES +0.4% premarket; prior close SPX 7,108.40 (-0.41%), Nasdaq 24,438.50 (-0.89%), Dow 49,310.32 (-0.36%)
+- VIX: 19.02, +0.5% — moderate regime, well off March 27 spike (31.05)
+- Today's catalysts: Intel +27% premarket on Q1 beat + upbeat guide; P&G +3% on beat; US-Iran ceasefire-extension talks ongoing
+- Earnings before open: PG ✓, CHTR, HCA, NSC, SLB — 36 reports on the day
+- Economic calendar: Final U-Mich consumer sentiment; no CPI/PPI/FOMC/NFP today
+- Sector momentum YTD: Energy +21–22%, Materials +15–17%, Staples +15%, Industrials +12% — our XLE/XLB/XLI tilt aligned with leadership
+
+### Trade Ideas
+1. HOLD existing sector ETFs (XLB/XLE/XLI) — trailing stops in place; oil rally + AI infrastructure + data-center power tailwinds intact. No action required.
+2. SLB (pre-market earnings) — energy services, Brent $105+ tailwind. If beat + guide raise and holds first 30-min low, entry on breakout with 7% stop. Speculative; skip if gap-up >3%.
+3. Deploy remaining cash ($43k → 43%, vs. 75–85% target) into a 4th sector-leader ETF or single name. Candidates: XLP (Staples +15% YTD, defensive with VIX ~19) or add to XLE on Hormuz escalation. Wait for market-open routine; no pre-market adds.
+4. Intel +27% gap — chase-risk too high post-beat. Skip.
+
+### Risk Factors
+- Oil spike driven by geopolitics — Hormuz/Iran headline reversal could crater XLE in one tape
+- S&P at 7,100 ATH + VIX 19 — complacency, mean-reversion risk
+- Under-deployed at 43% cash — opportunity cost, but patience > activity
+- Weekly close Friday — positioning / profit-taking possible into 4pm
+- 3 trades/week cap: we have 3 entries used (XLB/XLE/XLI) this week already; no new entries until next Mon per rule
+
+### Decision
+HOLD. Positions aligned with YTD sector leadership; 10% trail GTC stops active and above entry basis for XLE/XLI. No fresh entries — weekly trade budget exhausted (3/3). Monitor Hormuz headlines and SLB/PG reactions; let midday routine reassess. Sources: [OilPriceAPI/Brent](https://www.oilpriceapi.com/live/brent-crude-oil-price), [Oneindia/Oil](https://www.oneindia.com/india/crude-oil-rates-today-april-24-2026-brent-crude-crosses-105-per-barrel-check-latest-prices-of-w-8067951.html), [Bloomberg/Premarket](https://www.bloomberg.com/news/articles/2026-04-24/us-stock-futures-today-intel-maxlinear-organon-procter-gamble), [CNBC/Markets](https://www.cnbc.com/2026/04/23/stock-market-today-live-updates.html), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [Earnings Whispers 4/24](https://www.earningswhispers.com/calendar/20260424/1), [Kiplinger/Week](https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks), [Schwab/Sectors](https://www.schwab.com/learn/story/stock-sector-outlook), [Investing/Sector Rotation](https://www.investing.com/analysis/sector-rotation-intensifies-value-outperforms-growth-in-2026-market-split-200675093)
