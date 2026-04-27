@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-27 — Pre-market Research
+
+### Account
+- Equity: $100,247.82
+- Cash: $42,946.26 (43%)
+- Buying power: $143,194.08
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 ($18,822, -1.0%), XLE 345sh @ $55.35 ($19,734, +3.4%), XLI 109sh @ $173.78 ($18,746, -1.0%)
+- Open orders: 3 trailing-stop GTCs (10% trail) — XLE stop $51.47 (hwm $57.19), XLB stop $47.18 (hwm $52.42), XLI stop $157.31 (hwm $174.79)
+- Deployed: 57% — UNDER 75-85% target; room for 1-2 more positions
+
+### Market Context
+- WTI / Brent: WTI ~$96–97 (+~2%), Brent ~$106 — Strait of Hormuz effectively closed; Iran proposal via Pakistan to reopen Hormuz hit tape pre-open (Iran war = wk 9, IEA calls it largest energy supply shock on record)
+- S&P 500 futures: ES roughly flat (-0.1% to +0.03%); NQ +0.21%; Dow -0.16%. S&P closed last week at 7,165 record (4-week win streak)
+- VIX: 18.71 (-3.1%) — calm despite Hormuz; complacent
+- Today's catalysts: Trump halted/stalled Iran peace talks → oil spike; Iran counter-proposal via Pakistan; pivotal week (FOMC Wed + mega-cap tech earnings Wed/Thu)
+- Earnings before open: VZ (Verizon), DPZ (Domino's), PSA, NUE (Nucor — Materials, watch for XLB read-through). Heavy week: MSFT/GOOGL Wed, META Wed, AMZN/AAPL Thu
+- Economic calendar: Light Monday — no top-tier release. FOMC decision Wed (100% priced for hold); GDP, PCE later in week
+- Sector momentum: Leading — XLP, XLI, XLB, XLE (we own 3 of 4 leaders ✓). Lagging — XLK, XLC, XLY, XLF. XLE +25% YTD (off MTD highs -9%), XLB +22% YTD
+
+### Trade Ideas
+1. HOLD existing XLE/XLI/XLB — all in leading-sector quadrant; trailing stops doing work. XLE locked-in gain ~$546 (stop above cost). XLB/XLI near breakeven; let them run.
+2. XLP (Staples) — completes the "leading 4" basket; defensive add ahead of FOMC + tech earnings volatility. Entry on green-tape confirmation post-open ~$80 area, 10% trail GTC. Defer to market-open routine if confirmed; not pre-market.
+3. NUE (Steel/Materials) — earnings BMO today; Materials leadership tailwind. NOT a pre-market trade — wait for print + reaction; only consider day-2 if guide raises and base holds. SKIP if pure earnings gap chase.
+4. SKIP mega-cap tech (MSFT/GOOGL/META/AMZN/AAPL) — earnings Wed/Thu = binary risk; XLK is in lagging quadrant; max-3-per-week budget conserved.
+
+### Risk Factors
+- Hormuz/Iran headline whipsaw — oil ±5% intraday is plausible; XLE both helped and hurt by spikes
+- FOMC Wed = "hold" priced in 100% → asymmetric downside if Powell hawkish on cuts/balance sheet
+- Mega-cap tech earnings Wed/Thu → broad index gap risk Thursday/Friday open; XLI/XLB beta bleeds through
+- Energy sector -9% MTD off highs → XLE lead could be giving back; tighten thesis if it loses 50dma
+- VIX 18.7 = complacent into a Fed + earnings + war week → tail-hedge skew expensive but real
+- Capital under-deployed (57% vs. 75–85% target) — bias is to add, but patience > activity in a Fed week
+
+### Decision
+HOLD pre-market. Three sector-leader positions are the right exposure for a Fed + tech-earnings week; trailing GTCs handle downside. No new entries pre-market. If post-open tape is constructive (S&P green, VIX down, XLP holding), market-open routine may add XLP for a 4-position book. No chasing oil headlines or earnings gappers. Sources: [angle360ng/WTI](https://angle360ng.com/wti-crude-oil-price-today-april-27-2026/), [CNBC/futures](https://www.cnbc.com/2026/04/26/stock-market-today-live-updates.html), [Benzinga/Iran](https://www.benzinga.com/markets/equities/26/04/52055312/stock-market-today-dow-jones-sp-500-futures-fall-as-trump-halts-iran-talks-organon-sap-cheetah-n), [Yahoo/markets](https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-april-27-232226050.html), [TheStreet/Apr27](https://www.thestreet.com/latest-news/stock-market-today-apr-27-2026-updates), [TipRanks/earnings](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-april-27-2026), [Earnings Whispers](https://www.earningswhispers.com/calendar), [State Street sectors](https://www.ssga.com/us/en/intermediary/resources/sector-tracker), [TradingEconomics calendar](https://tradingeconomics.com/united-states/calendar)
