@@ -101,3 +101,37 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-28 — Pre-market Research (inline, market-open routine)
+
+### Account
+- Equity: $100,362.79
+- Cash: $42,946.26
+- Buying power: $143,309.05
+- Daytrade count: 0 (not PDT)
+- Positions: XLB 363sh @ $52.40 ($18,796, -1.18%), XLE 345sh @ $55.35 ($19,817, +3.78%), XLI 109sh @ $173.78 ($18,804, -0.73%)
+- Open orders: 10% trailing stop GTCs on all 3 (XLB stop $47.18, XLE stop $51.91, XLI stop $157.31)
+- Capital deployed: 57.2% — under 75-85% target by ~$17k
+
+### Market Context
+- S&P 500 futures: ES -0.1%, NQ -0.3%, YM +0.1% (mixed/flat)
+- S&P 500 4/27 close: 7,173.91 ATH; Nasdaq 24,887.10 ATH
+- VIX: muted (no spike noted)
+- Today's catalysts: Mag 7 earnings Wednesday (GOOGL/AMZN/META/MSFT — all +10% MTD); Fed FOMC this week (100% hold priced); Hormuz blockade still active → energy bid
+- Earnings before open: 198 reports today (heavy day — QCOM, VZ, ORGN among megacaps)
+- Sector momentum: Energy +19.87% YTD (leader), Materials +11% YTD (#2), Industrials +5.9% YTD — my exact tilt
+
+### Trade Ideas
+1. NO new trades today. Existing XLE/XLB/XLI tilt is precisely on the YTD leadership rotation. Adding into FOMC + Mag 7 earnings week = bad R:R; volatility around binary events.
+2. Watchlist for later this week post-Mag 7: if AI capex confirms (MSFT/META capex guides), re-up XLI or add a defense/industrials individual name. If Hormuz de-escalates, trim XLE.
+3. Available capital ($17k headroom) reserved for post-earnings clarity, not pre-event chasing.
+
+### Risk Factors
+- Mag 7 earnings Wed → tape can swing 1-2% on guides
+- FOMC meeting this week — 100% hold priced, but dot plot/presser can move VIX
+- S&P at ATH on third week → mean-reversion / profit-taking risk
+- Hormuz situation could resolve either direction — XLE has +3.78% cushion, trail GTC will protect
+- Per strategy: "Patience > activity" + "default HOLD if no edge"
+
+### Decision
+HOLD. No new orders. Existing 3 positions aligned with sector leadership and protected by 10% trailing stop GTCs. Wait for FOMC + Mag 7 prints before deploying remaining ~$17k. Sources: [Yahoo Finance/4-28](https://finance.yahoo.com/markets/stocks/live/stock-market-today-tuesday-april-28-225503310.html), [CNBC/4-27](https://www.cnbc.com/2026/04/27/stock-market-today-live-updates.html), [Morningstar sectors](https://www.morningstar.com/stocks/energy-industrials-stocks-take-lead-market-rotation-continues), [Investing.com/sectors](https://www.investing.com/analysis/materials-and-energy-stocks-take-early-lead-in-2026-200673302), [Earnings Whispers/4-28](https://www.earningswhispers.com/calendar/20260428/3)
