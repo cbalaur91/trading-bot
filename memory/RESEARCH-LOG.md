@@ -101,3 +101,39 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-28 — Pre-market Research
+
+### Account
+- Equity: $100,327.88
+- Cash: $42,946.26
+- Buying power: $143,274.14
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 ($18,818, -1.06%), XLE 345sh @ $55.35 ($19,838, +3.89%), XLI 109sh @ $173.78 ($18,726, -1.14%)
+- Open orders: 10% trailing-stop GTCs live on all 3 (XLB stop $47.18, XLE $51.91, XLI $157.31)
+- Deployed: 57% (under 75-85% target — room for one more position ~$15-20k)
+
+### Market Context
+- WTI / Brent: WTI ~$100 (+3%), Brent ~$111 (+3.2%) — Iran/Hormuz peace talks (Witkoff/Kushner to Pakistan); Trump rejected Iran's latest proposal; oil bid on supply risk
+- S&P 500 futures: ES -0.6% — AI/OpenAI revenue miss report (WSJ) pressuring tech; S&P/Nasdaq closed at record highs Mon
+- VIX: 19.03 (+1.71%) — calm but creeping
+- Today's catalysts: Iran peace-talk headlines, OpenAI miss roiling AI names (ORCL -5.2%), GM beat & raised, NUE beat (+3.8%)
+- Earnings before open: KO, BKNG, BP, AMT, GM, NUE, STX, SYF, PFE, JBLU; HOOD after close. 179 total reports today
+- Economic calendar: 10:00 Consumer Confidence + Case-Shiller HPI + FHFA HPI + Richmond Fed; FOMC two-day meeting BEGINS today (decision Wed 2pm)
+- Sector momentum: Energy/Materials in "Leading" quadrant (overbought-ish); Industrials strong on AI/defense capex; Staples hitting ATH; Tech rotating off
+
+### Trade Ideas
+1. HOLD existing XLB/XLE/XLI — sector leadership intact; XLE +3.9% with stop trailed up. Let trails do the work into FOMC.
+2. XLP (Consumer Staples) — defensive ATH leader, low correlation to AI rout. Entry ~current, stop 7% below, target 8-10%. Adds to deployment without doubling sector concentration. CONSIDER post-FOMC if S&P holds.
+3. NUE — beat earnings, +3.8%, materials/steel tailwind. Skip — chasing post-print, redundant with XLB exposure.
+4. AVOID — KO/BP/BKNG earnings reactors; OpenAI headline tape; anything tech adjacent until AI-spend story clarifies.
+
+### Risk Factors
+- FOMC decision Wed — no entries today; stops could be tagged on hawkish surprise
+- AI capex narrative cracking (OpenAI miss → semis/cloud at risk); could cascade to broad tape
+- Oil at $100/bbl WTI — energy positions extended; geopolitical reversal could hit XLE -5% on Hormuz "open" headline
+- Sector concentration: 3/3 positions in late-cycle cyclicals (XLB/XLE/XLI). Correlated drawdown risk.
+- 3-trade weekly quota fully available; 0 used. Patience preferred.
+
+### Decision
+HOLD. No new entries pre-market. FOMC Wed = wait. Existing trail stops are doing their job; XLE green, XLB/XLI flat. Revisit deployment post-FOMC with XLP as primary candidate to round out portfolio toward 75% deployed. Sources: [CNBC/oil](https://www.cnbc.com/2026/04/28/oil-prices-us-iran-hormuz-negotiations-wti-brent-crude.html), [Bloomberg/premarket](https://www.bloomberg.com/news/articles/2026-04-28/us-stock-futures-today-openai-linked-stocks-gm-spotify-ups), [TheStreet/today](https://www.thestreet.com/latest-news/stock-market-today-apr-28-2026-updates), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [EarningsWhispers](https://www.earningswhispers.com/calendar/20260428/3), [Investing/sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903), [FactSet/earnings](https://insight.factset.com/sp-500-earnings-season-update-april-24-2026), [TradingEcon/calendar](https://tradingeconomics.com/united-states/calendar)
