@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-29 — Pre-market Research
+
+### Account
+- Equity: $100,503.80
+- Cash: $42,946.26 (42.7%)
+- Buying power: $143,450.06
+- Daytrade count: 0
+- Long market value: $57,557.54 (57.3% deployed — UNDER 75-85% target)
+- Positions: XLE 345sh @ $55.35 (+5.48%, +$1,047), XLB 363sh @ $52.40 (-1.43%, -$273), XLI 109sh @ $173.78 (-1.44%, -$272)
+- Open orders: 10% trailing-stop GTCs on all 3 (XLE stop $52.25, XLB $47.18, XLI $157.31). All well clear of -7% manual cut.
+
+### Market Context
+- WTI / Brent: WTI ~$99.32 (-0.6%), Brent ~$111-115 — 8th straight session of gains, "largest supply shock on record" (IEA) on Hormuz shutdown
+- S&P 500 futures: ES ~7,170, flat (-0.01%) ahead of Fed + AMC megacap earnings
+- VIX: 17.83 — calm despite binary catalysts on deck
+- Today's catalysts: FOMC decision 2pm ET (rates expected unchanged), Powell presser 2:30pm. AMC: GOOGL/MSFT/AMZN/META all report. Trump sending Witkoff/Kushner to Pakistan for Iran peace talks this weekend.
+- Earnings before open: ABBV, SOFI (+100% EPS YoY est), FNMA, AER
+- Economic calendar: FOMC rate decision 2pm; press conf 2:30pm. No major data BMO.
+- Sector momentum: Energy +20%+ YTD leader, Materials +15%, Industrials +12%; Tech/Discret/Comm laggards. Rotation INTO our sector tilt validated.
+
+### Trade Ideas
+1. HOLD all three sector ETFs — XLE thesis intact (Hormuz premium), XLB/XLI in shallow pullback but structural rotation thesis unchanged. No adds today.
+2. Post-Fed deployment candidate: if Powell sounds dovish-on-growth, deploy ~$15-18k into a 4th name (Energy single-name e.g. XOM/CVX, or Industrial e.g. CAT). Wait until Thursday — let Fed + AMC megacap reactions clear.
+3. Skip Big Tech earnings plays — outside our sector momentum framework, asymmetric overnight risk into FOMC + 4 megacap prints same day.
+
+### Risk Factors
+- Binary catalyst stack: FOMC + 4 megacap prints in same 6-hour window. Worst day of the week to add risk pre-event.
+- Hormuz peace-talks reversal risk: if weekend talks de-escalate, XLE could give back 5-10% fast. 10% trail GTC handles it.
+- Underdeployed at 57% vs 75-85% target — opportunity cost real, but patience > forced trade.
+- VIX at 17.8 with major event risk = options market under-pricing. Equities could gap either way.
+- Sector concentration: 100% of risk in cyclical sectors (Energy/Materials/Industrials). If macro flips risk-off, all three correlate.
+
+### Decision
+HOLD. No new trades pre-Fed/megacap-earnings. Trail stops do the work. Re-evaluate Thursday AM after Fed + AMC reactions for 4th-position deployment. Patience > activity.
+
+Sources: [Brent/WTI](https://angle360ng.com/oil-price-forecast-tomorrow-april-29-2026/), [Fortune oil](https://fortune.com/article/price-of-oil-04-28-2026/), [CNBC futures](https://www.cnbc.com/2026/04/28/stock-market-today-live-updates.html), [TheStreet 4/29](https://www.thestreet.com/latest-news/stock-market-today-apr-29-2026-update), [VIX](https://fred.stlouisfed.org/series/VIXCLS), [Motley Fool Fed/Big Tech](https://www.fool.com/investing/2026/04/29/stock-market-most-important-day-of-quarter-arrived/), [Earnings Whispers 4/29](https://www.earningswhispers.com/calendar/20260429/3), [Kiplinger Fed](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-april-2026), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook)
