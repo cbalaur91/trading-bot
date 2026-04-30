@@ -101,3 +101,35 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-04-30 — Market-Open Research (inline)
+
+### Account
+- Equity: $100,171.90
+- Cash: $42,946.26 (43%)
+- Buying power: $143,118.16
+- Daytrade count: 0
+- Positions: XLB 363sh ($50.96, -2.7%, $18.5k), XLE 345sh ($58.83, +6.3%, $20.3k), XLI 109sh ($169.09, -2.7%, $18.4k) — ~57% deployed
+- Open orders: 10% trailing stops GTC live on all three (XLB stop $47.18, XLE $53.20, XLI $157.31)
+
+### Market Context
+- S&P 500 futures: -0.22%; Nasdaq 100 futures: -0.23%
+- WTI / Brent: WTI ~$107, Brent ~$118 — extended Iran/Hormuz blockade headlines, oil up ~7% session
+- Today's catalysts: ECB rate decision, US Q1 GDP advance, March PCE/core PCE, mega-cap tech digestion (META -7% post-earnings; GOOG/AMZN/MSFT mixed last night), AAPL earnings after close
+- Earnings before open: LLY, MA, CAT, MRK, COP, AMGN, MO, WDC. AAPL reports AMC.
+- Fed: held 3.50–3.75% (8-4 vote, dissents deepening)
+- Sector momentum YTD: Energy +21.5%, Materials +17.6%, Industrials +12.3% — Tech lagging. Rotation intact.
+
+### Trade Ideas
+1. None warranting action today. Already aligned with the working theme via XLE/XLB/XLI — adding more concentrated exposure to the same momentum sectors is doubling down, not diversifying.
+2. AAPL earnings AMC + ECB/PCE/GDP day = elevated headline risk. No edge in chasing into a 4-event macro day.
+3. Defensive hedges (XLU, GLD) considered and rejected — they aren't in the momentum quadrant the strategy says to follow.
+
+### Risk Factors
+- Mega-cap tech post-earnings whiplash spilling into Nasdaq breadth
+- ECB + PCE + GDP triple-event before US open → headline gap risk
+- Oil at $107 cuts both ways: bullish XLE, bearish broad market via input costs / consumer
+- Underdeployed at 57% vs. 75-85% target — but strategy explicitly: patience > activity
+
+### Decision
+HOLD. No new trades. Existing trailing stops protect downside. Re-evaluate Friday post-PCE/AAPL with fresh data. Trades-this-week count remains 0 (full quota preserved). Sources: [CNBC 4/29](https://www.cnbc.com/2026/04/29/stock-market-today-live-updates.html), [Bloomberg 4/30](https://www.bloomberg.com/news/articles/2026-04-29/stock-market-today-dow-s-p-live-updates), [Yahoo/Fed](https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-100555098.html), [Morningstar/rotation](https://www.morningstar.com/markets/is-stock-market-rotation-underway-these-sectors-are-outpacing-tech-2026), [Investing.com/sectors](https://www.investing.com/analysis/materials-and-energy-stocks-take-early-lead-in-2026-200673302), [Morningstar/AAPL earnings](https://www.morningstar.com/markets/get-ready-major-big-tech-earnings-releases-april-29)
