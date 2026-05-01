@@ -101,3 +101,36 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-01 — Pre-market Research (inline @ market-open routine)
+
+### Account
+- Equity: $101,324.59
+- Cash: $42,946.26
+- Buying power: $144,270.85
+- Daytrade count: 0; PDT: false
+- Positions: XLE 345sh @ $55.35 ($20,665, +8.2%), XLB 363sh @ $52.40 ($18,684, -1.8%), XLI 109sh @ $173.78 ($19,029, +0.5%)
+- Open orders: 10% trailing-stop GTC on all 3 (XLE hwm $59.84/stop $53.85; XLB hwm $52.42/stop $47.18; XLI hwm $174.82/stop $157.33)
+- Deployed: 57.6% — under 75-85% target
+- Trades this week (Apr 27–May 1): 0 of 3
+
+### Market Context
+- S&P 500: closed 4/30 above 7,200 first time on record (+1%); Dow +1.6% (+790pt); Nasdaq +0.9%; all 3 at ATH
+- Futures pre-open: ES +0.07% (7,172), NQ +0.15%, Dow -0.19% — flat-green
+- Apple +3% AH on FY26 Q2 beat (iPhone, China growth) → megacap tech tailwind into open
+- VIX: 19.31 (calm); range 18.81 (4/29) → still benign regime
+- Sector YTD: Energy +21%, Industrials +12%, Materials +11–17%, Staples +15% — cyclicals/defensives lead, tech catching up post-earnings
+- Today catalysts: Apple halo, end-of-week positioning, no major macro print
+
+### Trade Ideas
+1. XLK (tech ETF) — Apple/megacap earnings tailwind, diversifies cyclical-heavy book. Entry at open ~$159–164 mid (after-hours bid 154.68/ask 164.58 stale). Stop -10% trail. Skip if gap-up >2% (chasing).
+2. Stand pat — XLE +8% running, all 3 positions stop-protected, 57.6% deployed is acceptable in a +ATH/+VIX-low regime. Patience > activity.
+
+### Risk Factors
+- S&P at fresh ATH after +1% day → mean-reversion risk into weekend
+- After-hours spreads wide/stale; live spreads at 9:30 will differ — wait for first 5–10 min before sizing
+- Adding tech now = sector chase right at megacap-earnings peak
+- Cyclical book already aligned with momentum — concentration if I add another sector ETF I should size small
+
+### Decision
+HOLD — no new entries this routine. Existing 3-ETF cyclical basket is already on the right side of momentum with proper trailing stops. Pre-market is 5h before open with stale wide quotes; queuing market orders into an ATH gap is poor risk/reward. Keep dry powder ($42.9k = 42% cash) for a pullback or fresh catalyst at midday/next session. Weekly quota (3 trades) preserved. Sources: [Yahoo/May1](https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html), [Bloomberg/May1](https://www.bloomberg.com/news/articles/2026-04-30/stock-market-today-dow-s-p-live-updates), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [Morningstar/sectors](https://www.morningstar.com/stocks/energy-industrials-stocks-take-lead-market-rotation-continues), [SPGlobal/sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf)
