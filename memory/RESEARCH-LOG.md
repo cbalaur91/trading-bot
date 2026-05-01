@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-01 — Pre-market Research
+
+### Account
+- Equity: $101,190.69
+- Cash: $42,946.26
+- Buying power: $144,136.95
+- Daytrade count: 0
+- Positions: XLE 345sh ($20,424, +6.96%, ~20% wt), XLI 109sh ($19,111, +0.9%, ~19%), XLB 363sh ($18,709, -1.6%, ~18%)
+- Open orders: 10% trailing-stop GTCs live on all 3 (XLE stop $53.85, XLI $157.33, XLB $47.18)
+- Deployment: 57.5% — UNDER target 75-85%; ~$17-25k headroom for one more position
+
+### Market Context
+- WTI / Brent: WTI ~$105-106, Brent ~$110-111; +12% on the week. Hormuz still shut, Persian Gulf shut-in 9.1M bbl/day in April
+- S&P 500 futures: ES +0.28% to 7,263.75 (record close yesterday); Apple beat lifting tape
+- VIX: 17.10, -9.1% — calm
+- Today's catalysts: Iran peace-talk hopes (Witkoff/Kushner to Pakistan); Israel-Lebanon ceasefire +3wk; AAPL beat (+3% pre); MRNA +7%
+- Earnings before open: AAPL beat ($2.01 vs $1.96, rev $111.2B); XOM/CVX beat but profits -45%/-36% YoY; D, AON, ARES, TPG today
+- Economic calendar: Q1 GDP 2.0% (vs 2.3% est); PCE +3.5% YoY (hot); NFP likely tomorrow May 2
+- Sector momentum: Energy still YTD leader (oil shock); Healthcare flight-to-safety; Tech rallying on AAPL/AI; Materials/Industrials firm. Our XLE/XLI/XLB allocation is right side of momentum
+
+### Trade Ideas
+1. XLV (Healthcare ETF) — flight-to-safety leader, decorrelated from oil/Iran headlines, fits sector-momentum framework. Adds defensive ballast. Entry near current ~$148, stop -10% trail GTC, target +15%. Size ~$18-19k (~125sh, ~18%) — uses ~$18k of $42.9k cash, lifts deployment to ~76%.
+2. XLK (Tech ETF) — AAPL beat + AI capex broadening. Riskier on PCE 3.5% hot print. Entry only on first-30-min hold above pre-market high; stop 10% trail. Skip if SPX rolls over.
+3. AAPL outright — gap-and-go risk; prefer ETF exposure. Skip.
+4. NO add to XLE — already +7% and ~20% weight (max). Trail will lock gains.
+
+### Risk Factors
+- NFP tomorrow → headline risk into close
+- PCE 3.5% hot vs 2.0% growth → stagflation whiff; could spike yields
+- Hormuz binary — if Iran/US peace progresses, oil and XLE reverse hard. Trail at $53.85 protects.
+- Friday + record highs → profit-taking risk into weekend
+- Already used 1+ trade slot this week (entries 4/21); confirm <3 new this week before adding
+- 57.5% deployed is conservative — single new ~18% position is appropriate, not aggressive doubling
+
+### Decision
+HOLD into open; PLAN one entry at market-open routine: XLV ~$18-19k as defensive momentum add to push deployment to ~76%. Confirm pre-market XLV not gapping >2%; otherwise wait for pullback. No XLE/XLI/XLB adds (sized). No options ever. Sources: [CNBC/oil](https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html), [fxleaders/WTI](https://www.fxleaders.com/news/2026/05/01/wti-crude-oil-price-today-may-1-2026-trading-near-106-hormuz-supply-shock/), [Yahoo/futures](https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-101742104.html), [TheStreet/today](https://www.thestreet.com/latest-news/stock-market-today-may-1-2026-updates), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [Yahoo/records](https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html), [TipRanks/earnings](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-may-1-2026), [SeekingAlpha/sectors](https://seekingalpha.com/article/4854947-my-s-and-p-500-prediction-on-sector-out-performers-and-laggards-in-2026), [BLS/NFP](https://www.bls.gov/schedule/news_release/empsit.htm)
