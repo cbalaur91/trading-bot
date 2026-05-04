@@ -101,3 +101,39 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-04 — Pre-market Research
+
+### Account
+- Equity: $100,575.91 (last equity $100,742.20)
+- Cash: $42,946.26 (42.7%)
+- Buying power: $143,522.17
+- Daytrade count: 0
+- Positions: XLE 345sh @ $55.35 (+6.0%, +$1,147), XLB 363sh @ $52.40 (-2.05%, -$391), XLI 109sh @ $173.78 (-0.96%, -$182)
+- Open orders: 10% trailing-stop GTC on all three (XLE stop $53.85, XLB $47.18, XLI $157.88)
+- Deployment: ~57% (BELOW 75-85% target — under-invested)
+
+### Market Context
+- WTI / Brent: WTI ~$102, Brent ~$110 — both up sharply on Iran headlines; oil +60% since Feb 28 US/Israel-Iran war start
+- S&P 500 futures: ES mixed, +0.07% to -0.13% range; choppy on Iran one-month deadline proposal
+- VIX: 16.78 (-0.65%) — calm despite geopolitics
+- Today's catalysts: Iran proposes 1-month deadline to end war with US → oil spike; GME bid $125/sh ($56B) for EBAY (+10%); airline shutdown headlines
+- Earnings before open: Tyson, CNA, Norwegian Cruise, Axsome, Pinnacle West, Cogent — 133 reports today; week peaks Wed (450) / Thu (598)
+- Economic calendar: Light Mon. Week ahead — JOLTS (Tue), ADP + ISM Services (Wed), NFP (Fri), UMich sentiment
+- Sector momentum: Materials & Energy tied #1 YTD (+7.5%), Industrials #3, Staples leading quadrant. Tech/Comm/Discr/Financials lagging. Our 3 ETFs ARE the leadership.
+
+### Trade Ideas
+1. HOLD existing trio — leadership sectors, +6% on XLE absorbing oil tailwind, trailing stops in place. No reason to touch.
+2. Add to deployment via XLP (Staples) — leading quadrant, defensive carry into NFP/Iran tape, under-owned. Entry on first 30-min low hold ~current, stop -7%, target +10% (1.4:1). Skip if SPY gaps red >0.5%.
+3. XOP (E&P) — higher-beta energy expression of Iran premium, but XLE already +6% so adds correlation risk; PASS.
+4. Trim consideration: XLB down -2% with -1.07% buffer to stop ($47.18 vs $51.32 cur). Trail intact; no manual cut, watch for -7% break to cost ($48.73).
+
+### Risk Factors
+- Iran headline whip — oil could roundtrip on ceasefire chatter; XLE's +$1,147 lead is fragile
+- Concentration: 3 sector ETFs all in cyclical/leading quadrant → high correlation to risk-on tape; one regime change hits all three
+- Heavy earnings week (AMD Tue, PLTR Tue PM, MCD Thu) + NFP Fri = headline density
+- 57% deployed = under-invested vs. 75-85% rule — but adding into Iran-driven open is chasing
+- Max 3 new trades/week intact; recent week's quota fresh
+
+### Decision
+HOLD pre-market. Existing positions are leadership; trailing stops live; no thesis breaks. Will revisit deployment via XLP at market-open routine if SPY tape stabilizes. No new entries pre-bell; let oil/Iran headlines settle. Sources: [Oil Price API/Brent](https://www.oilpriceapi.com/live/brent-crude-oil-price), [CNBC oil](https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html), [Benzinga futures](https://www.benzinga.com/markets/prediction-markets/26/05/52241278/sp500-may-4-open-up-or-down-polymarket-record-highs-iran-project-freedom), [TheStreet 5/4](https://www.thestreet.com/latest-news/stock-market-today-may-4-2026-updates), [247WallSt 5/4](https://247wallst.com/investing/2026/05/04/stock-market-live-may-4-2026-sp-500-spy-sinks-on-iran-uncertainty-again/), [TradingEconomics VIX](https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [HeyGoTrade week](https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-05-04/), [Benzinga sectors](https://www.benzinga.com/insights/sector-etfs/26/05/52210647/leading-and-lagging-sectors-for-may-1-2026), [SeekingAlpha materials/energy lead](https://seekingalpha.com/article/4860124-materials-energy-stocks-take-early-lead-2026)
