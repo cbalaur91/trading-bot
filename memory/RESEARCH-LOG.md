@@ -101,3 +101,33 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-05 — Pre-market Research (inline, market-open routine)
+
+### Account
+- Equity: $100,477.99
+- Cash: $42,946.26 (42.7%)
+- Buying power: $143,424.25
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 → $50.77 (-3.1%, 18.3% wt), XLE 345sh @ $55.35 → $59.32 (+7.2%, 20.4% wt — at cap), XLI 109sh @ $173.78 → $170.98 (-1.6%, 18.5% wt)
+- Open orders: 10% trailing-stop GTC sells active for all 3 (XLB stop $47.18, XLE stop $53.85, XLI stop $157.88)
+- Weekly trades: 0 of 3 used; full quota available
+
+### Market Context
+- Pre-market quotes (2026-05-04 close): SPY $717.71, QQQ $671.88, XLE $57.49/$61.03 (~6% spread), XLB $49.47/$52.35, XLI $166.93/$176.28, XLU $45.01/$47.90, GLD $414.54, XLV $140.02
+- Wide pre-market sector ETF spreads — illiquid, untradable at open without limit ladders
+- Sector momentum (carry-over from 4/20 read): Energy and Materials still leadership; Tech cooling
+- No fresh catalyst documented for any new ticker today
+
+### Trade Ideas
+1. None with high-conviction edge today. Existing core sector exposure (XLE/XLB/XLI) covers the leadership thesis. Adding a 4th position to deploy idle cash would be activity-for-activity's sake without a documented catalyst.
+2. Watchlist for later in week: individual energy E&P / refiner names if XLE breaks out, or defensive XLU/GLD if VIX re-expands.
+
+### Risk Factors
+- Under-deployed at 57% (target 75-85%) — but forcing capital into fading bases is worse than waiting
+- XLE at 20% cap → cannot add; if it pulls back, cap reopens for re-entry
+- Wide pre-market spreads → any market order at open is bad fill risk
+- Patience > activity rule applies
+
+### Decision
+HOLD. No new entries. Existing trailing stops protect downside. Re-evaluate at midday once spreads tighten and intraday tape confirms direction.
