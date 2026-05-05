@@ -101,3 +101,39 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-05 — Pre-market Research
+
+### Account
+- Equity: $100,666.98
+- Cash: $42,946.26
+- Buying power: $143,613.24
+- Daytrade count: 0
+- Long market value: $57,720.72 (~57% deployed — UNDER 75–85% target)
+- Positions: XLB 363sh @ $52.40 → $50.90 (-2.86%, -$543), XLE 345sh @ $55.35 → $59.38 (+7.29%, +$1,392), XLI 109sh @ $173.78 → $172.09 (-0.97%, -$184)
+- Open orders: 10% trailing-stop GTCs on all 3 (XLB stop $47.18, XLE stop $53.85 hwm $59.84, XLI stop $157.88 hwm $175.42)
+
+### Market Context
+- WTI / Brent: WTI $104.10 (-2.2%), Brent $112.90 (-1.4%) — easing after yesterday's +4–6% spike on US-Iran exchange
+- S&P 500 futures: ES +0.4% premarket as ceasefire holds despite Hormuz clashes
+- VIX: 18.29 (+7.65%) — rising on geopolitical risk, still below 1-mo highs
+- Today's catalysts: Iran missile/drone attack on UAE (first since 4/8 ceasefire), Hormuz tensions, oil whipsaw
+- Earnings before open: PFE beat (+2.2%), TSN beat, AMD reports today, HSBC, IQV; UPS bouncing post AMZN-shock; GME/eBay $56B M&A drama
+- Economic calendar: light — no CPI/PPI/FOMC/NFP today
+- Sector momentum: Energy +30.7% YTD leader; Leading quadrant = XLP, XLI, XLB, XLE (we hold the last 3); Lagging = XLK, XLC, XLY, XLF; Improving = XLU, XLRE
+
+### Trade Ideas
+1. XLP (Staples) — defensive leader, fills 4th sector slot, hedges geopolitical tail. Entry ~$84, stop -7% ~$78, target +12% ~$94 (1.7:1). Pushes deployment toward 75%.
+2. XLU (Utilities) — improving quadrant, low correlation to oil shock, rate-sensitive but stable cash flow. Entry at-market, stop -7%, target +10%. Alt to XLP.
+3. AMD post-earnings — wait for print + open reaction; only chase if guidance raise + holds first 30-min low. Tech is lagging quadrant — skip unless conviction-grade.
+4. XLB cut consideration — underwater -2.86% with materials still in Leading quadrant; HOLD unless it breaks $50 (closer to -7% rule).
+
+### Risk Factors
+- Iran/UAE escalation could re-spike oil and crash equities intraday — VIX already +7.65%
+- Already 100% concentrated in cyclicals (Materials/Energy/Industrials); no defensive ballast
+- 57% deployed = under target but adding into elevated VIX risks bad fills
+- XLE +7.29% near +15% trail-tighten threshold — watch for trail adjust later
+- Weekly trade quota: 3 available; do not burn all on day 1 of week
+
+### Decision
+HOLD pre-market — no entries before open. Pivot to add XLP at market-open routine if futures hold green and VIX <20, sized 18–20% (~$18.5k = ~220sh). If Iran headlines escalate pre-open or VIX breaks 22, stand down. Trailing stops on existing positions remain the safety net. Sources: [CNBC/oil](https://www.cnbc.com/2026/05/05/oil-prices-today-wti-brent-iran-war-trump-hormuz.html), [Bloomberg/futures](https://www.bloomberg.com/news/articles/2026-05-05/us-stock-futures-today-bullish-genedx-intel-on-semi-palantir), [TheStreet/catalysts](https://www.thestreet.com/latest-news/stock-market-today-may-5-2026-dow-futures-rise-on-iran-war-developments), [Investing/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Earnings Whispers](https://www.earningswhispers.com/calendar), [Investing/sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903), [Benzinga/sectors](https://www.benzinga.com/insights/sector-etfs/26/05/52246759/leading-and-lagging-sectors-for-may-4-2026), [Schwab/sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook)
