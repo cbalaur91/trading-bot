@@ -101,3 +101,44 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-06 — Pre-market Research
+
+### Account
+- Equity: $100,726.74
+- Cash: $42,946.26
+- Buying power: $143,673
+- Daytrade count: 0
+- Positions (57.4% deployed):
+  - XLB 363sh @ $52.40 (mv $18,945, -0.4%) — trail stop $47.18 (hwm $52.42)
+  - XLE 345sh @ $55.35 (mv $19,762, +3.5%, intraday -3.65% on oil dump) — trail stop $53.85 (hwm $59.84)
+  - XLI 109sh @ $173.78 (mv $19,074, +0.7%) — trail stop $157.88 (hwm $175.42)
+- Open orders: 3 GTC trailing-stop sells (one per position)
+
+### Market Context
+- WTI: ~$91.54 (-10.5%); Brent: ~$99.12 (-9.8%) — collapsing on US-Iran deal progress, Trump halts "Project Freedom" naval ops
+- S&P 500 futures: ES +0.9% (pre-NY); Dow futures +400pts; record-chase tone
+- VIX: 16.73 (-3.7%, prev close 18.29) — risk-on, complacency creeping back
+- Today's catalysts: White House nearing 1-page MoU with Iran; AMD +18% pre on Q1 beat; SMCI +15% on AI server demand; GLW +17% on NVDA optical-fab JV; INTC +13% Tue (+114% April)
+- Earnings before open: DIS, UBER, CVS, MAR, NVO — ~450 reports today total
+- Economic calendar: ADP Employment 8:15a; quiet otherwise. NFP Fri 5/8, CPI Tue 5/12
+- Sector momentum: Energy + Real Estate + Healthcare leading YTD; Industrials/Materials riding AI infra buildout; Tech cooling but AI-infra names ripping; Financials/Discretionary lagging
+
+### Trade Ideas
+1. HOLD on XLE — Iran-deal oil crash will pressure today. Stop $53.85 is 5.97% below current $57.28 — let it work. Do NOT add. If thesis breaks (price < $54.5 + headlines confirm deal), consider manual exit before stop.
+2. XLK / SMH (tech/semis) — AMD/SMCI/CRNG strength validates AI-infra theme. Entry on confirmation post-open, not into the gap. Entry ~current, stop -7%, target +15% (~2:1). Sized at 18-20% (~$18-20k) to lift deployment toward 75%.
+3. XLV (Healthcare) — surprise YTD leader as flight-to-safety; uncorrelated to oil/geopolitics, would diversify away from XLE concentration risk. Wait for pullback entry.
+4. Patience preferred — gap-up open into earnings-deluge + Iran headline risk = poor R:R for chasing.
+
+### Risk Factors
+- Iran-deal whipsaw: if talks break down, oil snaps back, stocks reverse — XLE reverses with it
+- 450 earnings today = single-name landmines and broad-tape choppiness
+- VIX 16 + ATH chase = mean-reversion fuel
+- ADP print 8:15a could surprise hot/cold
+- Currently 57.4% deployed (below 75-85% target) — but adding into a gap-up on geopolitical relief is poor entry
+- Weekly trade quota: 3 fresh entries available
+
+### Decision
+HOLD pre-market. Stops are GTC and well-positioned (all >5% from price). Let oil/Iran headlines settle through the open before adding exposure. Market-open routine will reassess for an XLK/SMH or XLV add if tape stabilizes post-ADP. No new entry pre-bell.
+
+Sources: [Fortune oil 5/5](https://fortune.com/article/price-of-oil-05-05-2026/), [CNBC oil/Iran](https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html), [Bloomberg premarket 5/6](https://www.bloomberg.com/news/articles/2026-05-06/us-stock-futures-today-alphabet-amd-apollo-global-geo-uber), [TheStreet 5/6](https://www.thestreet.com/latest-news/stock-market-today-may-6-2026-updates), [CNBC market 5/5](https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html), [FRED VIX](https://fred.stlouisfed.org/series/VIXCLS), [Earnings Whispers](https://www.earningswhispers.com/calendar), [TipRanks earnings 5/6](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-may-6-2026), [NY Fed calendar](https://www.newyorkfed.org/research/calendars/nationalecon_cal), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf)
