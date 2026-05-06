@@ -101,3 +101,37 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-06 — Pre-market Research (inline, market-open routine)
+
+### Account
+- Equity: $100,768.29
+- Cash: $42,946.26
+- Buying power: $143,714.55
+- Daytrade count: 0 | PDT: false
+- Positions: XLB 363sh @ $52.40 (mv $18,705, -1.65%), XLE 345sh @ $55.35 (mv $20,324, +6.44%), XLI 109sh @ $173.78 (mv $18,793, -0.79%)
+- Open orders: 10% trailing stops GTC live on all 3 (XLB stop $47.18, XLE $53.85, XLI $157.88)
+- Deployed: 57% (under target 75-85%)
+- Research-log gap since 4/20 — no documented trades for 4/21 ETF buys (process gap, log forward)
+
+### Market Context
+- S&P 500 futures: ES ~7,305 (+0.25%) on renewed Iran-deal hopes; Nasdaq Comp closed >25,000 first time
+- VIX: 18.29 (5/5 close); calm regime
+- Today's catalysts: easing Mideast tensions, ceasefire holding, oil softer, AMD strong post-earnings
+- Sector momentum (May): Tech + Real Estate leading; Industrials biggest faller (rank 4 → 10); Energy/Staples at ATHs; Comm Services + Materials still strong on earnings growth
+- Earnings season: Q1 +14% YoY, FY +18.7% projected — supportive backdrop
+
+### Trade Ideas
+1. NO-TRADE today. Rationale: research stale (16-day gap), pre-market quotes wide (stale 4PM data), no fresh conviction list built. "Patience > activity" rule applies. Plan to run full pre-market workflow tomorrow.
+2. Watch XLI: sector momentum rotation (rank 4→10) is a yellow flag. Trail at 10% remains in place; manual cut if -7% breached. Do not move stop down.
+3. Watch XLE: +6.44% — within 8.55% of becoming a tighten-trail candidate at +15%. Hold and let trail work.
+4. Tomorrow's candidate list to research: XLK (Tech leader), XLRE (Real Estate co-leader), individual AI/semis post-AMD print.
+
+### Risk Factors
+- Sector rotation away from Industrials → XLI decay risk
+- Mideast headlines bidirectional — XLE could whip
+- 16-day research gap = decision discipline lapse; reset today
+- S&P at fresh highs → mean-reversion risk
+
+### Decision
+HOLD. No new trades at open. All stops in place. Re-run full pre-market tomorrow with fresh sector conviction and a candidate watchlist. Sources: [CBOE VIX/FRED](https://fred.stlouisfed.org/series/VIXCLS), [CNBC futures](https://www.cnbc.com/quotes/@SP.1), [TheStreet 5/5](https://www.thestreet.com/latest-news/stock-market-today-may-5-2026-updates), [StockCharts top10](https://articles.stockcharts.com/article/top-10-charts-for-may-2026-new-highs-and-strong-trends/), [QuantLake sector rotation](https://www.quantlake.com/post/sp500-sector-rotation-normal-7f1b8c8c), [FactSet earnings 5/1](https://insight.factset.com/sp-500-earnings-season-update-may-1-2026)
