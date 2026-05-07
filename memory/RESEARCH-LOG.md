@@ -101,3 +101,38 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-07 — Pre-market Research
+
+### Account
+- Equity: $100,757.20 (last $100,914.92, -$157 yesterday)
+- Cash: $42,946.26 (42.6%)
+- Buying power: $143,703.46
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 ($19,119, +0.52%), XLE 345sh @ $55.35 ($19,342, +1.30%), XLI 109sh @ $173.78 ($19,350, +2.15%) → $57,811 long (57.4% deployed)
+- Open orders: 10% trailing-stop GTCs on all 3 (XLB stop $47.40 / XLE $53.85 / XLI $159.61)
+
+### Market Context
+- WTI / Brent: WTI $95.66 (+0.61%), Brent $101.96 (+0.68%) — modest bid; Iran/US peace framework headlines pulling oil down longer-term
+- S&P 500 futures: ES +0.1% after record close (SPX first close >7,300 on 5/5); Iran peace hopes driving rally
+- VIX: 16.73 intraday / 17.39 close — calm, complacent regime
+- Today's catalysts: US-Iran one-page peace framework (talks possibly next week in Islamabad); 579 earnings reports today
+- Earnings before open: MCD, DDOG, U, VST, CELH, PTON, SHEL — broad mix, no direct ETF holdings exposure
+- Economic calendar: Light — no CPI/PPI/FOMC/NFP today (jobs data was earlier in week); Fed speakers possible
+- Sector momentum: Energy +30.7% YTD leader, Industrials/Materials/Staples Leading quadrant; Tech/Comm/Discret/Financials Lagging; Utilities/RealEstate Improving — our XLE/XLI/XLB tilt is aligned
+
+### Trade Ideas
+1. HOLD existing — XLE/XLI/XLB all green, all in Leading quadrant, trail stops set. Let winners run.
+2. XLP (Consumer Staples) — Leading quadrant, defensive complement to cyclical XLE/XLI/XLB; entry ~current, 10% trail GTC, target +12%. Would bring deployment to ~75% (in target range). Size ~$19k (1 position remaining of 3 sectors).
+3. XLU (Utilities) — Improving quadrant, AI data-center power demand tailwind; alternative to XLP. Entry ~current, 10% trail GTC. Pick one of XLP/XLU, not both.
+4. AVOID: chasing XLE further into peace-deal headlines (asymmetric downside if framework signs); chasing earnings movers (MCD/DDOG/U/VST/CELH); high-beta AI singles (Tech is Lagging).
+
+### Risk Factors
+- Iran peace framework could crater XLE on confirmation — trail stop $53.85 is the line; current $56.06 = ~4% buffer
+- S&P at ATH (>7,300) + VIX <17 → mean-reversion / complacency risk
+- Heavy earnings day (579 reports) → idiosyncratic gap risk in any single name (sector ETFs cushion this)
+- 3 trades/week budget: spent 3 last week on XLE/XLI/XLB (4/21); fresh week, full quota available
+- Under-deployed (57.4%) vs. 75-85% target — drift below range during a +30% YTD energy / record-high tape is opportunity cost
+
+### Decision
+HOLD pre-market. Let market-open routine evaluate adding XLP (preferred — defensive Leading sector) to lift deployment toward 75%. Existing positions managed by trail stops; no manual adjustments needed pre-market. Patience > activity, but under-deployment in a record-high tape is a real cost — flag XLP add for execution at open if futures hold green and VIX stays <18. Sources: [TradingEconomics WTI](https://tradingeconomics.com/commodity/crude-oil), [TradingEconomics Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [TheStreet 5/7](https://www.thestreet.com/latest-news/stock-market-today-may-7-2026-updates), [CNBC futures](https://www.cnbc.com/2026/05/06/stock-market-today-live-updates.html), [Yahoo VIX](https://finance.yahoo.com/quote/%5EVIX/), [TipRanks earnings 5/7](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-may-7-2026), [Investing sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903), [Schwab open](https://www.schwab.com/learn/story/stock-market-update-open), [SeekingAlpha sectors](https://seekingalpha.com/article/4854947-my-s-and-p-500-prediction-on-sector-out-performers-and-laggards-in-2026)
