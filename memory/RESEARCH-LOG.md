@@ -101,3 +101,37 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-07 — Pre-market Research
+
+### Account
+- Equity: $100,843.76
+- Cash: $42,946.26
+- Buying power: $143,790.02
+- Daytrade count: 0
+- Positions: XLB 363sh ($19,024, +0.03%), XLE 345sh ($19,554, +2.41%), XLI 109sh ($19,318, +1.99%) — all w/ 10% trail GTCs live
+- Deployed: 57.4% (target 75-85% — under-deployed)
+
+### Market Context
+- S&P 500: 7,365 (+1.46% Wed, fresh ATH); ES futures +0.16% Thu
+- VIX: 17.38 — calm regime
+- WTI/Brent: WTI $100.73 (-1.5%), Brent $108.23 (-1.5%) — Iran de-escalation
+- Today's catalysts: US/Iran near deal w/ nuclear enrichment moratorium; risk-on
+- Earnings today: SHEL, MCD, GILD, MCK, CRWV, COIN, ABNB
+- Economic calendar: Feb construction spending; Fed speakers later
+- Sector momentum: XLE +21.5% YTD, XLB +17.6%, XLI +12.3% — all 3 we own; XLK lagging, broadening trade favoring small caps
+
+### Trade Ideas
+1. ADD XLU — utilities/AI power infra thesis, defensive complement to cyclical trio. Skip today — buying ATH risk-on chase, no pullback yet. Watch for entry on 1-2% dip.
+2. ADD IWM — small-cap broadening trade. Same chasing risk.
+3. Existing winners: XLE +2.4%, XLI +2.0% — let them run; trails managing risk
+
+### Risk Factors
+- S&P at ATH after +1.46% — mean-reversion risk near term
+- Iran-deal premium already partially priced in; sell-the-news risk on confirmation
+- XLE: oil -1.5% on de-escalation = sector headwind near-term, but trail at $53.85 protects
+- Adding now = chasing at ATH with low VIX
+- Under-deployed at 57.4% but no compelling pullback entry today
+
+### Decision
+HOLD — no new entries. Patience > activity. S&P ATH + de-escalation rally fully priced; better to wait for pullback to add XLU/IWM. Existing 3-sector trio already aligned with momentum leaders. Trails active. Re-evaluate midday and Friday weekly review. Sources: [CNBC 5/6](https://www.cnbc.com/2026/05/06/stock-market-today-live-updates.html), [CNBC 5/5](https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html), [FRED VIX](https://fred.stlouisfed.org/series/VIXCLS), [Benzinga sectors 5/4](https://www.benzinga.com/insights/sector-etfs/26/05/52246759/leading-and-lagging-sectors-for-may-4-2026), [Investing.com sectors](https://www.investing.com/analysis/materials-and-energy-stocks-take-early-lead-in-2026-200673302)
