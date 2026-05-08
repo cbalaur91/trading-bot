@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-08 — Pre-market Research
+
+### Account
+- Equity: $100,099.47
+- Cash: $42,946.26 (43%)
+- Buying power: $143,045.73
+- Daytrade count: 0
+- Positions (3, ~57% deployed): XLB 363sh @ $52.40 (now $51.71, -1.3%), XLE 345sh @ $55.35 (now $55.91, +1.0%), XLI 109sh @ $173.78 (now $175.17, +0.8%)
+- Open orders: 10% trailing-stop GTCs live on all 3 — XLB stop $47.49 (hwm $52.77), XLE stop $53.85 (hwm $59.84), XLI stop $159.95 (hwm $177.72)
+
+### Market Context
+- WTI / Brent: WTI ~$94.35, Brent ~$100.54 (+0.5%); IEA flags Iran war disrupting ~14M bpd of supply
+- S&P 500 futures: ES +0.4–0.5% to ~7,365–7,400; Iran ceasefire holding per Trump
+- VIX: ~17.1–17.3, calm regime, complacency creeping back in
+- Today's catalysts: April NFP at 8:30am — consensus ~60K vs 178K prior (huge step-down). Awaiting Iran response to latest US proposal
+- Earnings before open: ENB (Enbridge), BAM (Brookfield AM), WEN (Wendy's), OSK (Oshkosh), PPL, TU, WULF — 110 reports total today
+- Economic calendar: NFP is THE event. No CPI/FOMC today. Fed-speakers + housing data later
+- Sector momentum: Energy +30.7% YTD leader, Materials & Industrials behind in cyclical rotation; leadership has rotated AWAY from megacap tech (XLK/XLC/XLY laggards in 2026). 5/7: XLB +0.50%, XLI +0.45%, XLE -1.76%
+
+### Trade Ideas
+1. HOLD existing trio (XLB/XLE/XLI) — thesis intact, all in green-leaning sector rotation, trailing stops protect downside. No action needed.
+2. Add modest XLI on dip (capital under-deployed at 57% vs 75-85% target). Catalyst: AI infra capex + Industrials YTD leadership. Entry $174.50 limit, stop trail 10% ($157.05), target $192 (2.2:1). Size ~$10K. SKIP if NFP shocks <30K (recession scare).
+3. Watch BAM (Brookfield AM) post-earnings — large alt-asset manager, plays infra/AI capex theme; only consider if it gaps up <3% on a beat with Industrials green. Entry breakout of opening range, stop -7%.
+4. Avoid energy adds — XLE down 1.76% yesterday; rolling over despite Iran headlines suggests demand-side worry into NFP.
+
+### Risk Factors
+- NFP at 8:30am: <30K = recession-scare gap-down; >100K = bond rout, growth stocks hit. Either way wider intraday range
+- VIX 17 → tight stops can whip on data release; respect 3% buffer rule
+- Already used quota of 3 sector positions — only 1 trade slot left this week without violating max-3-new
+- XLB down 1.3% from entry — not stopped but worst of the trio; if NFP weak it could test the trail
+- Iran ceasefire fragile — a headline reversal could spike VIX & oil simultaneously
+- 83% of S&P companies beating earnings by avg 11% → expectations bar lifting; disappointment risk in remaining reports
+- S&P at ATH-ish 7,400; +30% YTD leader sectors (Energy) extended
+
+### Decision
+HOLD — patience > activity. NFP at 8:30am is a binary; do NOT add risk pre-print. Watch for: (a) NFP reaction in XLI/XLB, (b) any trail-stop trigger on XLB if weak data, (c) XLI add candidate if data benign and futures hold. Re-evaluate at market-open routine. Sources: [TradingEconomics/Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [TradingEconomics/WTI](https://tradingeconomics.com/commodity/crude-oil), [Yahoo/Futures+NFP](https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-101224592.html), [Stocktwits/Iran-NFP](https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-jobs-iran-nvda-iren-rklb-crwv-upwk-stocks-to-watch/cZX2XnWReX1), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [TipRanks/Earnings 5-8](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-may-8-2026), [Schwab/SectorOutlook](https://www.schwab.com/learn/story/stock-sector-outlook), [Benzinga/Sectors 5-7](https://www.benzinga.com/insights/sector-etfs/26/05/52366357/leading-and-lagging-sectors-for-may-7-2026), [FactSet/Earnings](https://insight.factset.com/sp-500-earnings-season-update-may-1-2026)
