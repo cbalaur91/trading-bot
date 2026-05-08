@@ -98,3 +98,68 @@ Friday reviews appended here. Template for each entry:
 ### Overall Grade: D
 
 Rationale: scaffold works and research is disciplined, but the first real trading window saw ~0% deployment into a +4.5% S&P week and stops-rule violated on all 3 opens. Saved from F only because the positions are tiny and losses immaterial.
+
+## Week ending 2026-05-08
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $101,238.34 (5/1 close) |
+| Ending portfolio | $100,077.34 |
+| Week return | -$1,161.00 (-1.15%) |
+| S&P 500 week | +2.0% (6th straight winning week) |
+| Bot vs S&P | -3.15% |
+| Trades | 0 (W:0 / L:0 / open:3 carryover) |
+| Win rate | n/a (no closed trades) |
+| Best position | XLE +1.34% (open) |
+| Worst position | XLB -1.12% (open) |
+| Profit factor | n/a |
+
+Phase P&L (since 4/17 launch): +$77.34 (+0.077%) vs S&P ~+7% same window → -7% relative.
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | No closed trades this week |
+
+(Note: this is the first weekly review since 4/18 — covers wks ending 4/24 +$385, 5/1 +$853, and this week -$1,161. No trades since 4/21 ETF buys. Strategy operated in pure carry mode for 3 wks.)
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $52.40 | $51.81 | -$212.71 (-1.12%) | trail-stop GTC 10% @ $47.49 (hwm $52.77) |
+| XLE | $55.35 | $56.09 | +$254.97 (+1.34%) | trail-stop GTC 10% @ $53.85 (hwm $59.84) |
+| XLI | $173.78 | $174.08 | +$33.07 (+0.18%) | trail-stop GTC 10% @ $159.95 (hwm $177.72) |
+
+Deployment: $57,131 / $100,077 = 57% (below 75–85% target).
+
+### What Worked
+- All 3 trail-stop GTCs from 4/21 still live and tracking — rule-4 compliance fixed vs prior week
+- Sector basket (XLE/XLI/XLB) avoided single-name blow-up; XLE captured energy momentum to a $59.84 hwm before pullback
+- Patience > activity respected: zero churn for 3 weeks, 3-trades/week budget unspent
+- No stop-rule violations, no oversized positions
+
+### What Didn't Work
+- Massively underdeployed (~57%) into a +2% S&P week → underperformed by 3.15% this week
+- Concentrated 100% of risk in defensive/cyclical sector ETFs while Nasdaq ran +3% on Micron/AI tape — wrong basket for the regime
+- Stale book: 0 new ideas in 3 weeks despite 9 unused weekly trade slots
+- Tighter-trail rules (7% at +15%, 5% at +20%) never triggered because no winner ran far enough — but XLE hwm was +8.1%, the ratchet gave up gains on the pullback to +1.3%
+- Phase return +0.08% vs S&P ~+7% = hugely negative relative performance
+
+### Key Lessons
+- "Set and forget" sector ETFs are not a substitute for thesis-driven entries; carry mode in a trending tape = guaranteed underperformance
+- Ratcheting trail stops protect downside but the 10% trail is too loose to lock in modest winners — XLE went +8% then gave it all back without triggering
+- Sector rotation matters: defensives lagged tech in May; need to actively re-evaluate sector momentum each week, not just at deployment
+- Underdeployment is a cumulative drag — every week ~25% in cash while S&P rips compounds against us
+
+### Adjustments for Next Week
+- Re-deploy the $43k cash into 1–2 leadership names (semis, AI infra, or follow XLE if oil bid persists). Target 75–80% deployed by Wed
+- Consider re-entering CIEN or SNDK on pullbacks — both names had clear catalysts that played out (we sold 4/20 before any move)
+- If XLE breaks $56.09 weekly close higher and oil holds, stay long; if Iran deal headlines push oil down, re-evaluate
+- Treat the +15%/+20% trail tightening as a target, not a wish — sized positions need to actually run; small 19% sector ETF positions won't hit those triggers fast
+- No rule changes yet — strategy framework is sound; execution (deployment %, idea generation) is the gap
+
+### Overall Grade: C-
+
+Rationale: rule compliance is finally clean (stops in place, no oversizing, no churn) but execution is mediocre — 3 weeks of inertia produced a +0.08% phase return vs S&P ~+7%. Stops protected us from the C-/D range; lack of fresh ideas and underdeployment kept us out of B territory.
