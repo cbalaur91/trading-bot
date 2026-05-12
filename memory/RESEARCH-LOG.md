@@ -101,3 +101,34 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-12 — Pre-market Research (inline, market-open run)
+
+### Account
+- Equity: $100,961.48
+- Cash: $42,946.26
+- Buying power: $143,907.74
+- Daytrade count: 0
+- Positions: XLB 363sh ($19,047, +0.14%), XLE 345sh ($19,889, +4.16%), XLI 109sh ($19,079, +0.73%)
+- Deployed: 57.5% (under 75-85% target)
+- Open orders: 3 trailing-stop GTC sells (XLB stop $47.49 / XLE $53.85 / XLI $159.95) — all active
+
+### Market Context
+- VIX: ~19.5 (opened 19.45, range 19.4-19.78) — moderately elevated but calm
+- S&P 500: 7,412.84 (+0.19% prior session)
+- Sector momentum YTD: Energy +21%, Materials +17%, Staples +15%, Industrials +12%; Tech showing fresh breakout signals (May 6-7); broader market roughly flat YTD
+- Today's catalysts: continuation of value/cyclical leadership; tech rotation back tentatively
+- No major economic releases noted
+
+### Trade Ideas
+1. XLP (Consumer Staples ETF) — +15% YTD momentum, defensive ballast vs our cyclical-heavy book. Entry market (~$83 est), 10% trail stop (~$74.70), target ~$95 (1.5:1). Size 220 sh ≈ $18.3k (~18% equity).
+2. XLK (Tech) — rejected: lagging YTD, prefer to chase confirmed leadership not rotation hopes.
+
+### Risk Factors
+- Spread on XLP at close was wide (likely stale snapshot); will fill at live open spread
+- Sector concentration: cyclicals already 3/4 of book — XLP adds defensive diversification
+- VIX 19.5 says elevated headline risk; size kept under 20%
+- Trailing stop sell pre-fill rejected (403) — must be placed post-fill in next session
+
+### Decision
+TRADE — Bought 220 XLP at market (day TIF, queued for 13:30 UTC open). Trailing stop deferred to post-fill. Post-fill capital ~76% deployed (target ✓). Sources: [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [Morningstar 2026 rotation](https://global.morningstar.com/en-nd/stocks/6-stocks-driving-2026-us-stock-market-rotation), [Investing.com materials/energy](https://www.investing.com/analysis/materials-and-energy-stocks-take-early-lead-in-2026-200673302), [Everhint momentum May 7](https://www.everhint.com/momentum-swing-breakout-standard-for-may-07-2026-45-signals-technology-leads-12/), [FRED VIX](https://fred.stlouisfed.org/series/VIXCLS)
