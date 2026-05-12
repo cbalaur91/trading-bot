@@ -101,3 +101,39 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-12 — Pre-market Research
+
+### Account
+- Equity: $100,946.07
+- Cash: $42,946.26
+- Buying power: $125,494.83
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 ($18,985, -0.18%), XLE 345sh @ $55.35 ($19,941, +4.43%), XLI 109sh @ $173.78 ($19,074, +0.70%)
+- Open orders: XLP 220sh market BUY pending (fills at open ~$18.5k); 10% trailing stops GTC on XLB ($47.49), XLE ($53.85), XLI ($159.95)
+
+### Market Context
+- WTI / Brent: WTI ~$101.37 (+3.3%), Brent ~$107.58 (+3.2%) — both +40% since Iran war started 2/28
+- S&P 500 futures: ES -0.4% premarket, retreating from record after hot CPI and tech rotation
+- VIX: 18.11 (+5.35%); calm-to-rising regime, prior close 18.41
+- Today's catalysts: April CPI hot at +0.6% MoM / +3.8% YoY (highest since May 2023); Trump-Iran ceasefire "on life support" after counterproposal rejected; Trump China trip with Tesla/Apple/Meta execs
+- Earnings before open: 188 reports today — JD, SE, ZBRA (beat +15%), AMTM, ARMK, CAE; SoftBank tonight. None of our holdings report.
+- Economic calendar: April CPI (released) was the headline; PPI Wed; retail sales Thu; Fed speakers throughout week
+- Sector momentum: XLE/XLB/XLI/XLP all leading; defensive + cyclical rotation away from tech. XLK strong but rotating. Our basket aligned with leadership.
+
+### Trade Ideas
+1. HOLD existing book + let XLP fill at open — already at 4-sector defensive/cyclical basket post-fill (~76% deployed), aligned with leadership rotation. No new entries warranted.
+2. If XLP fills and any sector breaks down post-CPI: tighten stops via /midday, do NOT add.
+3. Watch list (no entries today): XLK pullback if tech sells off into Fri (CPI digest) — potential add next week if VIX stable. Skip energy adds (already 20% via XLE, geopolitical premium risk if Iran ceasefire holds).
+4. Skip individual stocks — single-name idiosyncratic risk into hot CPI + geopolitical tape is unfavorable; ETF basket sufficient.
+
+### Risk Factors
+- Hot CPI (+3.8%) raises Fed-cut delay risk → equity multiples compress, especially XLP/XLI (rate-sensitive defensives may diverge)
+- Iran ceasefire collapse → oil spike helpful for XLE but bearish broader (input cost shock for staples/industrials)
+- XLE near +4.4%; trailing stop at $53.85 protects most of gain. Don't move down.
+- XLP fill price will set 10% trail anchor — submit GTC trailing stop immediately after fill (market-open routine)
+- Trade quota: 3 new this week — XLP is #1; preserve 2 slots
+- VIX still benign (18) but rising — wider intraday swings expected
+
+### Decision
+HOLD pre-market. XLP buy already queued — fills at open, completes the 4-sector defensive/cyclical core. Market-open routine to attach 10% trailing stop GTC on XLP after fill. Patience > activity. Sources: [CNBC oil](https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html), [TheStreet/CPI](https://www.thestreet.com/latest-news/stock-market-today-may-12-2026-updates), [CNBC futures](https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [Bloomberg premarket](https://www.bloomberg.com/news/articles/2026-05-12/us-stock-futures-today-gamestop-hims-hers-microvast-wendy-s), [Seeking Alpha/sectors](https://seekingalpha.com/article/4901125-us-equity-sector-rotation-chartbook-may-2026-unholy-alliance), [Motley Fool/XLP](https://www.fool.com/coverage/etfs/2026/05/08/consumer-staples-are-back-in-focus-vdc-and-xlp-offer-two-ways-to-own-them/), [Earnings Whispers](https://www.earningswhispers.com/calendar)
