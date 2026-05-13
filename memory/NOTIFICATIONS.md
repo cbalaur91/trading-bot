@@ -31,3 +31,7 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-05-13 08:38 UTC
+market-open 2026-05-13: no buys. XLP missing stop fixed — 10% trail GTC placed (stop $75.60). 4 positions all covered. 75.6% deployed.

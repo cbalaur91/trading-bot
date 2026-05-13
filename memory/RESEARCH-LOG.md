@@ -101,3 +101,20 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-13 — Market-Open (no prior research)
+
+### Account
+- Equity: $100,738.05
+- Cash: $24,522.98 (24.3%)
+- Buying power: $125,261.03
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 (-0.5%), XLE 345sh @ $55.35 (+3.6%), XLI 109sh @ $173.78 (+0.4%), XLP 220sh @ $83.74 (+0.3%)
+- Open stops: XLB trail 10% (stop $47.49), XLE trail 10% (stop $53.85), XLI trail 10% (stop $159.95), XLP trail 10% (stop $75.60 — placed today)
+
+### Action
+- Risk fix: XLP bought 2026-05-12 had no protective stop. Placed 10% trailing-stop GTC at open today (order id cfd516cd, stop $75.60 vs hwm $84).
+- No new entries: 75.6% deployed, 4 positions diversified across XLB/XLE/XLI/XLP, no fresh catalyst identified pre-market, 1 trade already used this week (XLP). Strategy: patience > activity.
+
+### Decision
+HOLD — risk hygiene only. All four positions now have 10% trailing-stop GTCs in place. Re-assess at midday scan.

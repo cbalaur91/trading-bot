@@ -16,3 +16,10 @@ No positions yet. Bot launches tomorrow.
 | SNDK | 0.1085 | $921.31 | $920.99 | 0.00% | -$0.03 (-0.03%) | market sell queued Mon open |
 
 **Notes:** Saturday — markets closed, no fills. Three fractional opens ($100 each) from 4/17 still live; blanket market-sell orders queued for Monday open to clear the slate per weekly-review plan. Capital 99.7% cash — grossly under-deployed into a +4.5% S&P week. Monday: let sells fill, then deploy real sizes (15–20% each) with same-session 10% trailing-stop GTCs. No new entries until pending orders settle.
+
+## May 13 — Market-Open Risk Fix
+
+| Ticker | Action | Qty | Order Type | Stop | Notes |
+| XLP | Stop placed | 220 | trailing_stop 10% GTC | $75.60 | Bought 5/12, had no stop. Order cfd516cd queued pre-market. |
+
+**No new buys.** Portfolio 75.6% deployed across XLB/XLE/XLI/XLP. 1 trade this week (XLP 5/12). Patience > activity.
