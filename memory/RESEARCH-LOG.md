@@ -101,3 +101,38 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-13 — Pre-market Research
+
+### Account
+- Equity: $100,628.37
+- Cash: $24,522.98
+- Buying power: $125,151.35
+- Daytrade count: 0
+- Positions: XLE 345sh ($19,786, +3.62%), XLI 109sh ($18,912, -0.16%), XLB 363sh ($18,869, -0.79%), XLP 220sh ($18,539, +0.63%)
+- Open orders: 10% trailing-stop GTCs on all four positions (XLE stop $53.85, XLI $159.95, XLB $47.49, XLP $75.60)
+- Deployment: $76,105 / $100,628 = 75.6% (within 75-85% target)
+
+### Market Context
+- WTI / Brent: WTI ~$101.60, Brent ~$107.05 (-0.7%) — Iran/Hormuz war premium intact; WTI/Brent both +45% since Feb 28 war start
+- S&P 500 futures: ES +0.1% pre-PPI; modestly higher with Nasdaq futures green
+- VIX: 18.11 (+5.4%) — opened 18.77, intraday 18.10-19.10
+- Today's catalysts: PPI release (April) — expected 0.5%, came in HOT at +1.4%; CPI yesterday 3.8% headline / 2.8% core (above 3.7% est); Trump casting doubt on US-Iran ceasefire
+- Earnings before open: BABA, NBIS, BIRK, DT, TSEM, ICL, VSH, WIX — 187 total reports today (no megacap)
+- Economic calendar: PPI today (released hot); Fed speakers later in week; no FOMC, no NFP
+- Sector momentum: XLB, XLI, XLE, XLP all LEADING quadrant (our exact basket); XLK/XLE pole position; XLV weakening; XLY/XLF/XLC lagging. XLB +22% YTD, XLI +29% TTM
+
+### Trade Ideas
+1. HOLD existing book — XLE/XLB/XLI/XLP sector basket is in the leading quadrant per current rotation models. Sticky inflation + hot PPI + Iran war premium = thesis intact across all four ETFs.
+2. Watchlist only: GLD/inflation hedges if VIX breaks 22. Currently 18 — not actionable.
+3. Skip: no single-name additions today. Earnings are non-megacap and we're already 75% deployed in the right sectors. Patience > activity.
+
+### Risk Factors
+- Hot PPI (+1.4% vs +0.5% est) raises stagflation risk → could pressure all risk assets if 10Y yields spike
+- Iran ceasefire wobble — Trump comments could spike VIX/oil overnight; XLE benefits, XLI/XLB could chop
+- We're at max position count (4 of 5-6 cap); no room for ill-considered adds
+- 3-trades/week budget unused but no clear edge — don't waste it
+- Trailing stops are at -10%; cash buffer $24.5k provides flexibility
+
+### Decision
+HOLD — all four positions align with leading sectors, trailing stops in place, deployment in band. No new trades pre-market. Watch PPI reaction at open; if VIX spikes >22 or XLE breaks $55 support, reassess at midday. Sources: [oilpriceapi](https://www.oilpriceapi.com/oil-prices-today), [CNBC oil](https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html), [TheStreet market](https://www.thestreet.com/latest-news/stock-market-today-may-13-2026-updates), [Benzinga PPI](https://www.benzinga.com/markets/prediction-markets/26/05/52514751/sp500-may-13-open-up-or-down-polymarket-ppi-inflation), [VIX FRED](https://fred.stlouisfed.org/series/VIXCLS), [Earnings Whispers](https://www.earningswhispers.com/calendar/20260513/1), [TipRanks earnings](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-may-13-2026), [Investing sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903), [Seeking Alpha sector chartbook](https://seekingalpha.com/article/4901125-us-equity-sector-rotation-chartbook-may-2026-unholy-alliance)
