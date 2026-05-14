@@ -101,3 +101,22 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-14 — Market-Open Assessment (inline; pre-market log absent)
+
+### Account
+- Equity: $100,923.62
+- Cash: $24,522.98 (24.3%)
+- Buying power: $125,446.60
+- Daytrade count: 0
+- Positions: XLB 363sh @ $52.40 (-0.6%), XLE 345sh @ $55.35 (+4.1%), XLI 109sh @ $173.78 (+0.3%), XLP 220sh @ $83.74 (+1.1%)
+- Open orders: 4 trailing-stop GTCs (10% trail) on each position — all healthy
+
+### Rule check
+- 4/6 positions, 75.7% deployed (in 75–85% band) ✓
+- Trades this week: 1 (XLP 2026-05-12) — 2 slots remain
+- All stops live as GTC trailing 10% ✓
+- daytrade_count 0 ✓
+
+### Decision
+HOLD. Portfolio already at target deployment in the four momentum sectors (Materials/Energy/Industrials/Staples), all with trailing stops armed. No documented pre-market thesis for new entries today. Patience > activity. No trades fired.
