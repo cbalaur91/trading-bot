@@ -101,3 +101,44 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-15 — Pre-market Research
+
+### Account
+- Equity: $100,841.79
+- Cash: $24,522.98
+- Buying power: $125,364.77
+- Daytrade count: 0
+- Long mkt value: $76,318.81 (75.7% deployed — within 75-85% target)
+- Positions:
+  - XLB 363sh @ $52.40 → $51.17 (-2.34%, -$445), trail stop $47.49
+  - XLE 345sh @ $55.35 → $58.50 (+5.70%, +$1,088), trail stop $53.85
+  - XLI 109sh @ $173.78 → $172.80 (-0.56%, -$106), trail stop $159.95
+  - XLP 220sh @ $83.74 → $85.12 (+1.65%, +$303), trail stop $76.73
+- Open orders: 4× 10% trailing-stop GTC, one per ETF (all live, no within-3% issues)
+
+### Market Context
+- WTI / Brent: WTI ~$104.81, Brent ~$109.03 — elevated; Middle East/Hormuz still bid
+- S&P 500 futures: ES -0.9% to -1.0% pre-market; broad selloff on rising yields after Trump-Xi summit ended without breakthrough. Thursday close: S&P >7,500 ATH, Nasdaq 26,635 ATH, Dow back over 50,000
+- VIX: ~17.90, +0.17% — calm regime
+- Today's catalysts: Empire State Manufacturing (08:30), April Industrial Production + Capacity Utilization (09:15); Trump-Xi summit wrap; profit-taking after Thursday ATH
+- Earnings before open: 107 reports today, no notable mega-cap pre-open; NVDA earnings 5/20 looms
+- Economic calendar: Empire State + Industrial Production today; CPI/PPI not on Friday
+- Sector momentum: Energy + Materials in "Leading" quadrant; Industrials + Staples close behind; Tech/Discretionary cooling today on yield/tariff jitters
+
+### Trade Ideas
+1. NO new entries today — portfolio is balanced across four leading sectors (XLB/XLE/XLI/XLP), 75.7% deployed, well within rules. ES -1% pre-market = poor risk/reward for fresh adds
+2. Watch XLE: oil $105+ keeps thesis intact; if pulls back into rising-yield session, consider a trim-and-rotate only if it breaks $56 with conviction. Otherwise let winner run with 10% trail
+3. Watch XLB: -2.3% underwater but stop $47.49 still ~7% below spot; no action — let trail work or cut at -7% (entry $52.40 × 0.93 = $48.73, breached only on close)
+4. Cash dry-powder ($24.5k) reserved for next confirmed sector signal post-NVDA earnings (5/20). Patience > activity
+
+### Risk Factors
+- ES -1% on rising yields could drag all 4 ETFs at open; XLB/XLI most exposed to industrials/cyclicals
+- Hormuz/Iran headlines two-way: supports XLE but reverses hard if de-escalation
+- S&P at ATH after Thursday run → profit-taking risk into weekend; Polymarket implies 99% open-lower
+- XLB closest to red flag (-2.3%, day -0.97%); a -3% day puts it inside the -7% manual-cut zone
+- NVDA earnings 5/20 = full-market vol event next week
+- Friday + summit-overhang = no edge for new entries
+
+### Decision
+HOLD. Portfolio is 75.7% deployed across four leading-sector ETFs, all with live 10% trailing-stop GTCs. No within-3% violations, no rule breaks. ES -1% pre-market and Friday/summit overhang offer no edge for fresh entries. Let trails work; reassess after NVDA earnings 5/20. Sources: [OilPriceAPI](https://www.oilpriceapi.com/oil-prices-today), [TradingEconomics/Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [Bloomberg/premarket](https://www.bloomberg.com/news/articles/2026-05-15/us-stock-futures-today-dexcom-figma-gemini-nu-papa-john-s), [Yahoo/futures](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-yields-jump-amid-inflation-jitters-224527199.html), [FRED VIX](https://fred.stlouisfed.org/series/VIXCLS), [Benzinga/Polymarket](https://www.benzinga.com/markets/prediction-markets/26/05/52589502/sp500-may-15-open-up-or-down-polymarket-record-highs-tech-rally), [Newsquawk/econ cal](https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar-11th---15th-may-2026), [Schwab/sectors](https://www.schwab.com/learn/story/stock-sector-outlook), [Earnings Whispers](https://www.earningswhispers.com/calendar/20260515/1), [SSGA/sector scorecard](https://www.ssga.com/library-content/pdfs/etf/us/spdr-sector-scorecard.pdf)
