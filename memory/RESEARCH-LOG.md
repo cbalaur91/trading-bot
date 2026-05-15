@@ -101,3 +101,34 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-15 — Pre-market Research (inline, market-open routine)
+
+### Account
+- Equity: $101,206.44
+- Cash: $24,522.98 (24.2%)
+- Buying power: $125,729.42 (margin)
+- Daytrade count: 0
+- Pattern day trader: false
+- Positions: XLB 363sh @$52.40 (curr $51.55, -1.6%), XLE 345sh @$55.35 (curr $58.40, +5.5%), XLI 109sh @$173.78 (curr $174.49, +0.4%), XLP 220sh @$83.74 (curr $85.47, +2.1%)
+- Long market value: $76,683 (75.8% deployed — in target 75-85% band)
+- Open orders: 10% trailing stop GTC on each — XLB stop $47.49 / XLE $53.85 / XLI $159.95 / XLP $76.73
+- Trades this week: 0 (positions opened 4/21; XLP stop updated 5/13)
+
+### Market Context
+- Data endpoint flaky in pre-market session; relying on position snapshot for held tickers
+- Current sector tilt: defensives (XLP) + cyclicals (XLB/XLE/XLI). XLE strongest (+5.5%), XLB weakest (-1.6%) but well above trail stop
+- No new catalysts pulled this session — market hours research deferred; existing positions all flat-to-positive last session
+- Friday: low information value for new entries (weekly close skew)
+
+### Trade Ideas
+1. None — no fresh research, no compelling edge, already at 75.8% deployment with 4 healthy ETFs and proper trailing stops in place. Adding a 5th position pre-Friday-close without documented thesis violates "patience > activity" rule.
+
+### Risk Factors
+- XLB -1.6% drifting down — monitor at midday; if it rolls to -7% from entry (~$48.73), cut manually before trail hits
+- No live quote feed access this session — cannot validate spreads on potential new tickers
+- Margin buying power available but cash-only deployment maintained per spec
+- Weekly-review due today (Friday) — defer strategic adjustments to that routine
+
+### Decision
+HOLD. No new trades. Maintain existing 4 sector positions with active 10% trail stops. Next action: midday scan to verify XLB drift and tighten any winner stops if XLE crosses +15% from entry ($63.65) — currently $58.40, not triggered. Friday weekly-review will cover full re-assessment.
