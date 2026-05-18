@@ -101,3 +101,31 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-18 — Pre-market Research (market-open inline)
+
+### Account
+- Equity: $100,608.31
+- Cash: $24,522.98 (24.4%)
+- Buying power: $125,131.29
+- Daytrade count: 0
+- Long market value: $76,085.33 (75.6% deployed — bottom of target band)
+- Positions: XLB 363sh ($50.30, -4.0%), XLE 345sh ($59.42, +7.4%), XLI 109sh ($171.37, -1.4%), XLP 220sh ($84.76, +1.2%)
+- Stops: 10% trailing GTC active on ALL 4 positions (XLB stop $47.49, XLE $53.85, XLI $159.95, XLP $77.02)
+
+### Market Context
+- Quotes pre-open; last data ~Fri 5/15 close. No fresh research run for today — entering session blind on macro/catalysts
+- Portfolio already aligned with prior thesis (Energy/Materials/Industrials/Staples sector momentum) from 4/21 deployment
+- New trading week (week of 5/18) — 3-trade weekly quota fully available
+- 1-2 position slots open (4 of max 5-6 used)
+
+### Trade Ideas
+None. Sector basket already deployed against the momentum thesis. No new catalyst researched today.
+
+### Risk Factors
+- XLB drawdown -4% — within tolerance, trailing stop at $47.49 manages downside
+- Capital deployed 75.6% — at floor of 75-85% band; acceptable, no forced redeployment
+- Without documented catalyst, any new entry would violate "specific catalyst required" rule
+
+### Decision
+HOLD — no new trades. Existing 4 positions remain with active 10% trailing GTCs. Strategy rule: "default HOLD if no edge" and "Patience > activity". Will reassess at midday and tomorrow's pre-market with fresh research.
