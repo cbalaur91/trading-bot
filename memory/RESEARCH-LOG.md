@@ -101,3 +101,45 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-18 — Pre-market Research
+
+### Account
+- Equity: $100,475.42 (last close $100,592.08, ~-$117 today)
+- Cash: $24,522.98 (24.4%)
+- Buying power: $124,998.40
+- Daytrade count: 0
+- Positions (4, ~75.6% deployed):
+  - XLE 345sh @ $55.35 → $59.15, +6.87% (+$1,312), MV $20,407 — trail stop $53.85 (10%)
+  - XLI 109sh @ $173.78 → $171.73, -1.18% (-$223), MV $18,719 — trail stop $159.95 (10%)
+  - XLP 220sh @ $83.74 → $84.50, +0.91% (+$167), MV $18,590 — trail stop $77.02 (10%)
+  - XLB 363sh @ $52.40 → $50.24, -4.12% (-$783), MV $18,237 — trail stop $47.49 (10%)
+- Open orders: 4 GTC trailing 10% stops, all live and tracking
+
+### Market Context
+- WTI / Brent: WTI ~$106–107, Brent ~$113 — Strait of Hormuz effectively closed, +11% on the week
+- S&P 500 futures: ES -0.67% to ~7,382 after record-setting week (S&P/Nasdaq fresh ATH Friday)
+- VIX: 18.4–19.0, +3% intraday — still subdued vs. geopolitical backdrop
+- Today's catalysts: Trump renewed Iran warnings over weekend; UNH -5% pre (Berkshire fully exited); D +11% pre (NEE acquisition talks); 10Y >4.50%, 30Y >5.00%, 2Y >4.00% — global yields breaking out
+- Earnings before open: 50 reports scheduled; no megacap pre-open. Week ahead: NVDA + TGT Wed 5/20, WMT Thu 5/21 (key tape risk Wed)
+- Economic calendar: Quiet Mon. No CPI/PPI/FOMC today. Watch yields and Fed speakers all week
+- Sector momentum: Energy/Materials/Industrials/Staples remain leadership; Tech rotating out (Pershing Square new MSFT stake noted as contrarian); leadership rotated away from 2025 megacap tech → defensive/cyclical/value
+
+### Trade Ideas
+1. HOLD all four sector ETFs — portfolio is exactly aligned with active leadership rotation (XLE/XLB/XLI/XLP). Trails working. No action needed.
+2. XLU (Utilities) — AI-power/data center buildout + defensive bid as yields surge & VIX firms. Entry on pullback to 50DMA, stop -7%, target +12% (1.7:1). Would fill 5th slot with $18–20k size. Wait until post-NVDA to avoid tape whiplash.
+3. XAR (Aerospace & Defense) — sustained defense spend + Iran war tailwind; cleaner than direct energy add (XLE already +6.9% from cost). Entry on consolidation, stop -7%, target +15%. Backup to XLU.
+4. NO new entry today — NVDA Wed is the binary catalyst this week; let it print before deploying remaining $24.5k. Also weekly quota intact (0 new this week).
+
+### Risk Factors
+- Oil cuts both ways: a verified Hormuz reopening → XLE gives back hard (we're +6.9%, trail at $53.85 protects ~$1k of gain)
+- Yields breaking out (10Y >4.5%, 30Y >5%) → rate-sensitive utilities/staples could wobble even as the rotation favors them
+- NVDA earnings Wed = single largest tape risk this week; broad market follows that print
+- Tech rotation could reverse on Pershing/MSFT-style "value in tech" calls — would pressure our cyclical tilt
+- VIX still complacent (~19) vs. open Middle East war + supply disruption — gap risk on weekend headlines
+- Three new-trade slots open this week — no need to use them on a -0.7% futures Monday
+
+### Decision
+HOLD. Portfolio is well-positioned for the leadership rotation; all stops live; cash $24.5k preserves optionality. No pre-market action. Re-evaluate adding XLU or XAR mid-to-late week after NVDA print and oil clarity. Patience > activity.
+
+Sources: [Oilprice WTI](https://oilprice.com/), [Goodreturns crude 5/18](https://www.goodreturns.in/crude-oil-price.html), [Stocktwits S&P futures](https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-fall-nvda-now-poet-ibrx-unh-regn-stocks-to-watch/cZXrXh4Relo), [TheStreet 5/18](https://www.thestreet.com/latest-news/stock-market-today-may-18-2026-updates), [Yahoo VIX](https://finance.yahoo.com/quote/%5EVIX/), [Schwab open](https://www.schwab.com/learn/story/stock-market-update-open), [Earnings Whispers](https://www.earningswhispers.com/calendar), [Kiplinger week](https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [Investing sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903)
