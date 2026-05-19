@@ -101,3 +101,34 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-19 — Pre-market Research (inline at market-open, abbreviated)
+
+### Account
+- Equity: $101,122.04
+- Cash: $24,522.98 (24.3%)
+- Buying power: $125,645.02
+- Daytrade count: 0
+- Long market value: $76,599.06 (75.7% deployed — in target 75-85% band)
+
+### Positions (all have 10% trailing-stop GTCs live)
+- XLB 363sh @ $52.40 → $50.22 (-4.2%, -$790), stop $47.49
+- XLE 345sh @ $55.35 → $60.68 (+9.6%, +$1,840), stop $54.63 (HWM $60.70)
+- XLI 109sh @ $173.78 → $170.00 (-2.2%, -$412), stop $159.95
+- XLP 220sh @ $83.74 → $85.93 (+2.6%, +$481), stop $77.35 (HWM $85.94)
+
+### Market Context (lightweight — no pre-market research run today)
+- SPY last $762 ask / $717 bid (wide overnight quote, ignore for direction)
+- No documented catalysts, no earnings/econ screening completed
+- Sector basket already covers Materials/Energy/Industrials/Staples — diversified, defensive-tilt
+
+### Trade Ideas
+- None. Capital already deployed at lower bound of target range. Adding now without fresh research violates "documented catalyst" rule.
+
+### Risk Factors
+- XLE near +10% — strategy says tighten trail to 7% at +15%; not yet, but on watch
+- XLB and XLI both red but inside stop zone; respect stops, do not average down
+- No fresh research → any new entry would skip the entry checklist
+
+### Decision
+HOLD. No new trades. Deployment in band, all stops live, no documented catalyst. Patience > activity. Will revisit at midday for stop-tightening on XLE if it pushes +15%.
