@@ -101,3 +101,44 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-19 — Pre-market Research
+
+### Account
+- Equity: $101,069.49
+- Cash: $24,522.98 (24.3%)
+- Buying power: $125,592.47
+- Daytrade count: 0
+- Deployed: $76,546.51 (75.7%) — within 75–85% target
+- Positions (4 of 5–6 cap):
+  - XLB: 363sh @ $52.40, last $50.13, -4.3% (-$823), trail stop $47.49
+  - XLE: 345sh @ $55.35, last $60.80, +9.85% (+$1,882), trail stop $54.63, HWM $60.70
+  - XLI: 109sh @ $173.78, last $169.68, -2.4% (-$447), trail stop $159.95, HWM $177.72
+  - XLP: 220sh @ $83.74, last $85.81, +2.5% (+$455), trail stop $77.35, HWM $85.94
+- Open orders: 10% trailing-stop GTC for each of 4 positions — all in compliance
+
+### Market Context
+- WTI / Brent: WTI ~$103–107, Brent ~$109 — Hormuz still constrained; Trump called off planned Iran strike → peace-talk de-escalation but supply premium persists
+- S&P 500 futures: ES -0.4% to -0.5%, NQ -0.8%, Dow -0.3% — chip-led sell-off, NVDA pre-print jitters
+- VIX: 17.82 (-3.3%) — calm despite tape weakness
+- Today's catalysts: HD earnings beat ($3.43 adj vs $3.41 est, rev $41.77B); rising yields (10Y >4.5%, 30Y >5.0%); NVDA earnings Wed AMC; Iran de-escalation
+- Earnings before open: 40 reports; HD (beat), plus Agilysys, Amer Sports, Relay, StubHub, XP. Big one tomorrow: NVDA AMC
+- Economic calendar: Light Tuesday — no CPI/PPI/FOMC/NFP today. Fed speakers + housing data on deck
+- Sector momentum (S&P dashboard): Leading = XLP, XLI, XLB, XLE (we own all 4). Weakening = XLV. Lagging = XLK, XLC, XLY, XLF. Improving = XLRE, XLU. Materials still YTD leader (+22%)
+
+### Trade Ideas
+1. HOLD CURRENT BOOK — all 4 holdings are in Leading-quadrant sectors per sector dashboard. Thesis intact. No add justified into tech sell-off / yield breakout.
+2. XLE management — at +9.85%, approaching +15% trail-tighten trigger. If XLE prints $63.65+ (= +15% from $55.35 avg), tighten trail from 10% → 7% per Rule 6. Watch intraday.
+3. XLB watch — at -4.3% it's the weakest hand. Mental flag at $48.73 (-7% from $52.40) for manual cut per Rule 5. Trail stop at $47.49 already covers, but check thesis: Materials sector still Leading +22% YTD; one weak ETF print does not break thesis. Hold unless -7% triggers.
+4. NO new entries today — pre-NVDA, into tech weakness and yield breakout, with VIX low (no fear discount). Patience > activity. Reassess Thu after NVDA print.
+
+### Risk Factors
+- NVDA print Wed AMC could whip whole tape (esp. XLK/XLC drag, but spillover to XLI/XLB via macro)
+- 10Y yield > 4.5%, 30Y > 5.0% — multi-year breakouts; equities historically struggle on yield spikes
+- Hormuz tail risk both ways: re-escalation = oil spike (XLE+) but broad risk-off; full Iran deal = XLE giveback
+- Momentum concentration warning: 2% of S&P names supplied 78% of YTD return — narrow market, fragile
+- XLB at -4.3% — 2.7% of buffer before manual cut trigger
+- Daily P&L -$93 (-0.09%) — within noise
+
+### Decision
+HOLD. Book is correctly aligned with Leading sectors. Stops are real GTCs. Pre-NVDA + yield breakout + low VIX = bad setup for adding risk. Monitor XLE for +15% trail tighten, XLB for -7% manual cut. No trades. Sources: [Fortune/oil 5-15-26](https://fortune.com/article/price-of-oil-05-15-2026/), [Bloomberg/premarket](https://www.bloomberg.com/news/articles/2026-05-19/us-stock-futures-today-agilysys-amer-sports-relay-stubhub-xp), [CNBC/futures](https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html), [TheStreet/today](https://www.thestreet.com/stock-market-today/stock-market-today-may-19-2026-updates), [FRED VIX](https://fred.stlouisfed.org/series/VIXCLS), [Earnings Whispers 5-19](https://www.earningswhispers.com/calendar/20260519/1), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Benzinga/momentum](https://www.benzinga.com/markets/equities/26/05/52631836/sp500-momentum-rally-historical-analysis-goldman-sachs-2026)
