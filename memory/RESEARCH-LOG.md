@@ -101,3 +101,39 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-20 — Pre-market Research
+
+### Account
+- Equity: $100,731.16 | Cash: $24,522.98 (24.3%) | Buying power: $125,254.14
+- Daytrade count: 0 | PDT flag: false
+- Deployed: $76,208.18 long = 75.7% (low end of 75-85% band)
+- Positions (4 sector ETFs, all w/ 10% trailing-stop GTCs):
+  - XLE 345sh @ $55.35, now $60.84 → +9.93% (+$1,895) | stop $55.34 (hwm $61.49) | 20.8% of equity
+  - XLP 220sh @ $83.74, now $85.79 → +2.45% (+$451) | stop $78.03 | 18.7%
+  - XLI 109sh @ $173.78, now $169.92 → -2.22% (-$420) | stop $159.95 | 18.4%
+  - XLB 363sh @ $52.40, now $49.10 → -6.29% (-$1,196) | stop $47.49 | 17.7% — NEAR -7% cut line
+
+### Market Context
+- Oil: Brent ~$109 (-1.95%), WTI ~$103 (-0.85%). Strait of Hormuz still largely shut — biggest supply shock since 1970s (>14 mb/d shut in). Trump called off planned Iran strike → de-escalation hope, oil easing. Brent modeled at $154 if closure persists 12wks; EIA sees ~$106 May/Jun, falling to ~$89 Q4.
+- S&P futures: +0.3% premarket — but index fell 3 straight sessions into today (Treasury yields rising, rate-vol elevated).
+- VIX: ~18 (5/19 close 18.06–18.17) — calm despite oil shock = complacency.
+- Catalysts today: NVDA Q1 earnings AFTER CLOSE (AI barometer, market-mover). FOMC April minutes 2pm — last of Powell era; Kevin Warsh sworn in as chair this week.
+- Earnings before open: LOW, TGT, TJX, ADI, HAS (retail/staples + chips).
+- Econ calendar: FOMC minutes only major item today; no CPI/PPI/NFP.
+- Sector momentum YTD: Energy +22% (leader), Materials +15.5%, Staples +12.3%, Industrials +12.1% — ALL FOUR leading vs S&P. Value/cyclical rotation hedging sticky inflation. Portfolio is perfectly aligned with leadership.
+
+### Trade Ideas
+1. XLB — manual -7% cut watch. Entry $52.40 → -7% = ~$48.73; now $49.10 (-6.29%). HOLD for now: materials is a momentum leader and Gulf urea/fertilizer disruption (>30% global supply via Hormuz) is a tailwind. Cut only if rule triggers intraday; do not pre-empt.
+2. XLE — let winner run. Already 20.8% of equity (>20% cap from gains) so NO ADD. 10% trail locks gains above $55.34. Note de-escalation risk: if Hormuz reopens verifiably, energy reverses hard — trail protects.
+3. Deploy remaining cash ($24.5k) LATER in week, not today. At 75.7% we have room to ~85%. Candidate: a 5th leading-sector starter to reach 5 positions — but wait until after NVDA/FOMC clear the event risk. No entry into binary-event day.
+
+### Risk Factors
+- NVDA earnings after close — AI barometer; could whipsaw entire market tomorrow.
+- FOMC April minutes 2pm + Warsh transition — hawkish hold expected; yields rising drove 3 down days.
+- Oil/Hormuz binary: de-escalation (Trump cancelled strike) could reverse XLE hard; escalation spikes Brent toward $154 (modeled). XLE has +9.93% cushion.
+- XLB at -6.29%, one bad session from -7% manual cut.
+- VIX ~18 despite supply shock = complacency; S&P at ATH region after 3 down days → mean-reversion + rate-vol risk.
+
+### Decision
+HOLD — no new trades into a NVDA + FOMC event day. Portfolio is already aligned with the four leading momentum sectors; trailing-stop GTCs manage downside. Watch XLB for -7% manual cut (~$48.73) at the open. Patience > activity. Sources: [Fortune/oil](https://fortune.com/article/price-of-oil-05-18-2026/), [TheStreet/5-20](https://www.thestreet.com/stock-market-today/https-www-thestreet-com-stock-market-today-stock-market-today-nasdaq-dow-jones-sp-500-updates-may-20-2026), [Benzinga/open](https://www.benzinga.com/markets/prediction-markets/26/05/52683645/sp500-may-20-open-up-or-down-polymarket-nvidia-earnings-bond-yields), [FRED/VIX](https://fred.stlouisfed.org/series/VIXCLS), [TipRanks/earnings](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-may-20-2026), [Investing/sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903), [IEA/oil report](https://www.iea.org/reports/oil-market-report-may-2026), [Wikipedia/Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
