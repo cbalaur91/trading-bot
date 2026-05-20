@@ -101,3 +101,35 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-20 — Pre-market Research (inline @ market-open)
+
+### Account
+- Equity: $100,662.66
+- Cash: $24,522.98 (24.4%)
+- Buying power: $125,185.64
+- Daytrade count: 0 (not PDT)
+- Deployed: $76,139.68 long = 75.6% (within 75-85% target)
+- Positions (all with 10% trailing GTC stops):
+  - XLB 363sh @ $52.40, now $49.04, -6.4% — stop $47.49
+  - XLE 345sh @ $55.35, now $61.02, +10.3% — stop $55.34
+  - XLI 109sh @ $173.78, now $168.74, -2.9% — stop $159.95
+  - XLP 220sh @ $83.74, now $85.88, +2.6% — stop $78.03
+
+### Market Context
+- S&P 500 futures: 7,388 (+0.14%); Nasdaq +0.37%; Dow flat
+- VIX: 18.13 (+0.4%) — calm regime
+- Today's catalysts: NVDA reports Q1 earnings tonight — broad market event risk (no NVDA exposure held)
+- Sector momentum: 2026 "great rotation" into real-economy sectors — Energy +22% YTD, Industrials +16%, Staples +13%, Materials (copper/precious metals/AI-chemicals). Confirms theses on all four current ETF holdings.
+
+### Trade Ideas
+1. No new entries — no pre-formed, catalyst-backed setup queued. Existing XLE/XLI/XLP/XLB already capture the leading-sector momentum.
+2. Watch XLB at -6.4% vs -7% manual cut line (materials thesis intact; trailing stop $47.49 active). Reassess at midday.
+
+### Risk Factors
+- NVDA earnings tonight could swing broad market tomorrow; staying put avoids new event-risk exposure.
+- Trade log is stale (last entry Apr 18; does not reflect the 4 ETF positions opened ~Apr 21) — data-integrity gap to backfill outside this routine.
+- XLB near cut line; momentum laggard of the basket.
+
+### Decision
+HOLD — no market-open orders. Portfolio is healthy: 75.6% deployed, 4 positions all stop-protected, holdings aligned with confirmed sector momentum. No documented edge for a fresh trade; patience > activity. Sources: [247WallSt/market](https://247wallst.com/investing/2026/05/19/stock-market-live-may-19-2026-sp-500-spy-still-slipping-on-uncertainty/), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [AInvest/rotation](https://www.ainvest.com/news/yield-trap-sets-great-rotation-industrials-energy-beating-tech-2026-2605/), [Schwab/sectors](https://www.schwab.com/learn/story/stock-sector-outlook), [EIA/STEO](https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf)
