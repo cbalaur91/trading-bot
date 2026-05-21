@@ -101,3 +101,34 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-21 — Pre-market Research (inline at market-open; no prior entry found)
+
+### Account
+- Equity: $100,755.64
+- Cash: $24,522.98 (24.3%)
+- Buying power: $125,278.62
+- Daytrade count: 0 (not PDT)
+- Positions (4, all with live 10% trailing-stop GTC):
+  - XLE 345sh @ $55.35 → $59.90, +8.2% (stop $55.53, hwm $61.70)
+  - XLP 220sh @ $83.74 → $85.52, +2.1% (stop $78.03, hwm $86.70)
+  - XLI 109sh @ $173.78 → $171.60, -1.3% (stop $159.95, hwm $177.72)
+  - XLB 363sh @ $52.40 → $49.72, -5.1% (stop $47.49, hwm $52.77) — watch, cut at -7%
+- Deployed: 75.7% (in 75-85% band)
+
+### Market Context
+- Nvidia FY27 Q1 beat (Data Center compute +77% YoY) but reaction tepid; US futures slipped — "shrugged off Nvidia."
+- S&P 500 ~7,433 (prior day +1.08% recovery); Nasdaq bouncing on AI-equipment/semis.
+- Sector momentum: Materials & Industrials led on the recovery day, but Energy lagging on oil sliding; Basic Materials weak (-2.47% intraday). Pakistan-Iran peace headlines supporting risk-on.
+- Earnings/calendar: post-NVDA digestion; no fresh catalyst tied to held ETFs.
+
+### Trade Ideas
+1. None with a clean, documented edge today. Choppy post-NVDA tape; sector signals mixed (energy down, materials weak — both already represented in book).
+
+### Risk Factors
+- XLB (-5.1%) drifting toward -7% manual-cut threshold amid weak materials tape — monitor at midday/EOD.
+- Energy slide pressuring XLE (still +8.2%, well above trailing stop).
+- Post-NVDA "sell-the-news" risk could spill into broad tape.
+
+### Decision
+HOLD — no new trades. Portfolio fully protected (4 trailing-stop GTCs), deployment in-band at 75.7%, no documented catalyst/edge today. Patience > activity. Will reassess XLB at midday. Sources: [TheStreet/May 20](https://www.thestreet.com/stock-market-today/stock-market-today-nasdaq-dow-jones-sp-500-updates-may-20-2026), [Yahoo/futures shrug off NVDA](https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-wall-street-shrugs-off-nvidia-earnings-232311657.html), [Kiplinger/NVDA earnings](https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-may-2026), [Yahoo/sectors](https://finance.yahoo.com/sectors/)
