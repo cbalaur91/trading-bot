@@ -31,3 +31,16 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-05-21 15:04 UTC
+EOD May 21
+Portfolio: $100,165 (-0.46% day, +0.17% phase)
+Cash: $24,523 (24.5%)
+Trades today: none | This week: 0/3
+Open positions:
+  XLE +7.84% (stop $55.53)
+  XLP +0.63% (stop $78.03)
+  XLI -2.46% (stop $159.95)
+  XLB -5.17% (stop $47.49) <- nearing -7% cut
+Tomorrow: watch XLB toward cut line; rest ride trails; deploy cash only on fresh momentum setup.
