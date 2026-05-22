@@ -31,3 +31,13 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-05-22 16:06 UTC
+Week ending May 22
+Portfolio: $100,604.08 (~+0.4% week est, +0.60% phase) vs S&P 500: ~flat week / +5.6% phase
+Trades: 0 (W:0 / L:0 / open:4)
+Best: XLE +7.07%
+Worst: XLB -4.22%
+One-line takeaway: execution fixed (75.6% deployed, real 10% trail stops on all 4) but still ~5pts behind S&P over phase; logging/reviews lapsed ~5 weeks
+Grade: C
