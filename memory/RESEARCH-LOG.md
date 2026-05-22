@@ -101,3 +101,31 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-22 — Pre-market Research (inline, market-open run)
+
+### Account
+- Equity: $100,410.11
+- Cash: $24,522.98 (24.4%)
+- Buying power: $124,933.09
+- Daytrade count: 0 (not PDT)
+- Positions (4, ~75.6% deployed): XLB 363sh @ $52.40 (-4.5%), XLE 345sh @ $55.35 (+7.3%), XLI 109sh @ $173.78 (-1.9%), XLP 220sh @ $83.74 (+1.3%)
+- Open orders: 10% trailing-stop GTC live on all 4 — XLB $47.49, XLE $55.53, XLI $159.95, XLP $78.03
+
+### Market Context
+- S&P 500 futures: ES/Dow ~-0.3%, Nasdaq-100 ~-0.8% premarket — risk-off
+- VIX: ~17.3 (subdued, -3%)
+- Today's catalysts: long-term Treasury yields rising sharply; NVDA flat post-earnings (beat + dividend hike but guidance light of high end); Mideast energy-export optimism fading → yields up, equities pressured
+- Sector momentum: Industrials leading, Energy strong, Materials supported by AI-infra/capex/defense buildout; Staples defensive
+
+### Trade Ideas
+1. No new entry. Portfolio already holds the momentum leaders directly via ETFs (XLI/XLE/XLB) plus defensive XLP. Adding a 5th 15-20% position would push deployment to ~90-95%, breaching the 85% cap.
+2. Watch XLE (+7.3%): if it runs to +15% from entry (~$63.65), tighten trail to 7% per rule. Not there yet.
+
+### Risk Factors
+- Risk-off open (futures down, yields rising) — poor backdrop to chase fresh longs
+- Already near upper deployment band; cash buffer ($24.5k) worth keeping into yield-driven volatility
+- XLB -4.5% (within -7% cut threshold; trailing stop $47.49 handles downside)
+
+### Decision
+HOLD — no new trade. Portfolio is properly deployed (75.6%, within 75-85%), momentum-aligned, and fully protected by 10% GTC trailing stops. No documented single-name edge on a risk-off day. Patience > activity. No orders placed; existing stops unchanged. Sources: [CNBC 5/21 live](https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html), [Investing.com S&P futures](https://www.investing.com/indices/us-spx-500-futures), [EverHint momentum 5/14](https://www.everhint.com/everhint-momentum-swing-aggressive-momentum-for-may-14-2026-4-signals-industrials-leads-1/), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [Investing.com materials/energy lead](https://www.investing.com/analysis/materials-and-energy-stocks-take-early-lead-in-2026-200673302)
