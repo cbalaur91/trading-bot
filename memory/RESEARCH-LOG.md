@@ -101,3 +101,37 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-22 — Pre-market Research
+
+### Account
+- Equity: $100,490.28 (prev close $100,293.06, +$197 overnight)
+- Cash: $24,522.98 (24.4%)
+- Buying power: $125,013.26
+- Daytrade count: 0 | PDT: false
+- Positions (4, all sector ETFs): XLB 363sh @ $52.40, now $50.10, MV $18,186 (-4.38%) | XLE 345sh @ $55.35, now $59.11, MV $20,393 (+6.80%) | XLI 109sh @ $173.78, now $171.45, MV $18,688 (-1.34%) | XLP 220sh @ $83.74, now $85.00, MV $18,700 (+1.50%)
+- Long MV $75,967 = 75.6% deployed (at floor of 75-85% band)
+- Open orders: GTC 10% trailing stops on all 4 — XLB stop $47.49 (hwm $52.77), XLE stop $55.53 (hwm $61.70, locked breakeven+), XLI stop $159.95 (hwm $177.72), XLP stop $78.03 (hwm $86.70). All compliant; none within 3% of price.
+
+### Market Context
+- WTI / Brent: US crude topped $100; WTI ~$97-101, Brent ~$104 (+1.9%). Whipsawing on Iran-war headlines — Rubio cites "encouraging signs" of a deal, oil faded intraday from +3% earlier.
+- S&P 500 futures: +0.39% premarket Fri. Thu close 7,445.72 (+0.17%, ATH region). Polymarket 78% odds of higher open. Risk-on tone on Iran de-escalation hopes.
+- VIX: 16.76 (5/21 close, -3.9%), trending lower — calm/complacent regime.
+- Today's catalysts: Final May U-Mich Consumer Sentiment 10:00 ET; NY Fed Nowcast 12:45 ET. No CPI/PPI/FOMC/NFP. Q1 earnings season effectively over (17 minor reports). Inflation last 3.8% (sticky), unemployment 4.3%.
+- Sector momentum YTD: Materials +22% leader (breaking long consolidation); Energy strong on Iran-war oil premium; Industrials bid on capex/AI-infra/defense; Staples defensive at ATH. Leadership has rotated AWAY from megacap tech into Energy/Materials/Staples/cyclicals — directly aligned with our 4 sleeves.
+- Recent session divergence: Industrials +2.7%, Tech +2.2%, Materials +2.1% leaders; Energy -4.2%, Utilities -1.2% lagged on de-escalation hopes — flags XLE's binary headline risk.
+
+### Trade Ideas
+1. HOLD all four sleeves — book is already positioned in the exact leadership themes (Materials/Energy/Industrials/Staples). No edge in churning a winning rotation.
+2. XLV (Healthcare) as a potential 5th sleeve — May top-performer w/ Tech & Utilities; defensive diversification using idle 24% cash. Catalyst: defensive rotation. Entry ~current, stop -8%, target +12% (1.5:1). WATCH only — no confirmed breakout trigger yet; would also push us toward mid-band deployment (~80%).
+3. XLE risk note (not a buy): single biggest book risk. A confirmed US-Iran deal reverses oil hard (energy already -4.2% on hope alone). Trailing stop at $55.53 caps downside near breakeven; do NOT move it down. If a deal headline hits, let the GTC trail work — no manual chase.
+
+### Risk Factors
+- Iran-war headline binary: a deal craters XLE/oil; a breakdown re-bids it. Stop protects but gap risk on weekend headlines (Friday → 2-day exposure).
+- VIX 16.8 + S&P at ATH = complacency / mean-reversion risk into a Friday.
+- Rising yields (10Y ~4.6%) + sticky 3.8% inflation = headwind for rate-sensitive names.
+- Q1 earnings ending → "healthy consolidation" expected; momentum may stall.
+- XLB underwater (-4.38%) — Materials YTD leader but our entry early; watch -7% manual-cut line ($48.71); trail stop $47.49 backstops.
+
+### Decision
+HOLD — no new entries. Book is correctly aligned with sector leadership, 75.6% deployed, all positions carry compliant GTC 10% trailing stops, none near a cut line. Friday + low VIX + Iran headline risk both ways + end of earnings season = no high-conviction setup. Keep 24% dry powder for a confirmed entry (XLV watch). Patience > activity. Sources: [TradingEconomics Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [Benzinga S&P open](https://www.benzinga.com/markets/prediction-markets/26/05/52738797/sp500-may-22-open-up-or-down-polymarket-iran-deal-fed-warsh), [Yahoo VIX](https://finance.yahoo.com/quote/%5EVIX/), [ts2.tech market update](https://ts2.tech/en/stock-market-today-21-05-2026/), [NY Fed calendar](https://www.newyorkfed.org/research/calendars/nationalecon_cal), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [IEA Oil Market Report May 2026](https://www.iea.org/reports/oil-market-report-may-2026), [Motley Fool 2026 S&P](https://www.fool.com/investing/2026/05/19/the-sp-500-has-had-a-wild-2026-here-is-where-it-co/)
