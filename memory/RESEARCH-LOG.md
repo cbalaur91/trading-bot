@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-25 — Pre-market Research
+
+**MARKET CLOSED — Memorial Day. NYSE/Nasdaq closed all day; reopen Tue 5/26. No pre-market action possible.**
+
+### Account
+- Equity: $100,681.23 | Cash: $24,522.98 | Buying power: $125,204.21
+- Daytrade count: 0 | Deployed: $76,158 (75.6% — within 75–85% target)
+- Positions (4, all w/ live GTC 10% trailing stops):
+  - XLE 345sh @ $55.35 → $59.49 | +$1,430 (+7.49%) | stop $55.53
+  - XLP 220sh @ $83.74 → $84.80 | +$233 (+1.26%) | stop $78.03
+  - XLI 109sh @ $173.78 → $171.77 | -$219 (-1.16%) | stop $159.95
+  - XLB 363sh @ $52.40 → $50.29 | -$764 (-4.02%) | stop $47.49
+- Open orders: 4 trailing-stop GTC sells (one per position) — all active, none breached
+
+### Market Context (last close Fri 5/22)
+- WTI ~$98, Brent ~$100 — elevated on Iran/Hormuz risk premium, but Brent -6% on week as US–Iran de-escalation gets priced in
+- S&P 500: fresh ATH region (>7,500 reported); broad index ~flat YTD, value/cyclicals leading
+- VIX: 16.7 — calm/complacent regime
+- This week's releases: Tue Consumer Confidence; **Wed 5/28 PCE deflator (key Fed inflation gauge) + GDP 2nd est + durable goods**; Thu jobless claims. No FOMC/NFP this week
+- Earnings of note: Salesforce, Dell (tech), Costco, Dollar Tree (staples — relevant to XLP)
+- Sector momentum YTD: Energy +21%, Materials +17%, Staples +15%, Industrials +12% — our 4 holdings ARE the leaders; tech/growth lagging
+
+### Trade Ideas (for Tue 5/26 reopen — no action today)
+1. HOLD all 4. Portfolio is cleanly tilted to the YTD-leading sectors; thesis intact. Let trailing stops do the work.
+2. XLE — energy leader, oil bid on Hormuz. Binary risk: a verified US–Iran deal reverses oil hard. Do NOT add into the headline; trail protects +7.5% gain (stop $55.53, ~6.7% below).
+3. Optional defensive round-out: ~$9–10k into XLU (Utilities) to use idle cash ahead of June seasonal weakness (worst month in midterm years, avg -2.1%). Entry Tue open, stop -8%, target +10%. Keeps us ≤6 positions and ≤85% deployed. Counts as 1 of 3 weekly trades. Only if it confirms strength at open.
+
+### Risk Factors
+- June seasonality bearish; S&P at ATH on thin late-May tape → mean-reversion risk
+- Iran de-escalation = sharp oil/XLE reversal risk (our biggest winner)
+- Wed PCE print could move rates/sectors; avoid fresh risk into it
+- XLB underwater (-4%); watch — sector exit rule applies after 2 consecutive failed trades
+- Idle 24% cash is a modest drag vs. a flat-but-ATH index; deploy only on confirmation, not into the holiday-thin reopen
+
+### Decision
+**HOLD — market closed today.** No action possible. Tue 5/26: reassess at open; consider XLU round-out only on confirmed strength, otherwise stay patient. Stops are set; no thesis broken overnight. Sources: [MSN/Memorial Day hours](https://www.msn.com/en-us/money/markets/is-the-stock-market-open-or-closed-on-memorial-day-2026-see-schedule/ar-AA23WCPg), [Fortune/oil](https://fortune.com/article/price-of-oil-05-20-2026/), [TradingEconomics/Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [CNBC/week ahead](https://www.cnbc.com/2026/05/22/stock-market-next-week-outlook-for-may-25-29-2026.html), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [Econoday/calendar](https://us.econoday.com/), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [EquityClock/outlook](https://equityclock.com/2026/05/22/stock-market-outlook-for-may-26-2026/)
