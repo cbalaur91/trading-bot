@@ -101,3 +101,32 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-26 — Market-open (inline pre-market, no prior plan)
+
+### Account
+- Equity: $100,921.03
+- Cash: $24,522.98 (24.3%)
+- Buying power: $125,444.01
+- Daytrade count: 0 (PDT: false)
+- Positions (~75.7% deployed): XLB 363sh (-2.7%, $18.5k), XLE 345sh (+6.5%, $20.3k), XLI 109sh (-0.3%, $18.9k), XLP 220sh (+1.3%, $18.7k)
+- Open orders: 10% trailing-stop GTC live on all 4 (XLB $47.49, XLE $55.53, XLI $159.95, XLP $78.03)
+
+### Market Context
+- S&P 500 7,473 (Fri 5/22 close), 8th straight weekly gain (+0.9% wk), at/near ATH — "everything rally"
+- Catalyst: US–Iran peace-deal hopes (Qatari team to Tehran) driving risk-on; oil-shock premium fading
+- Sector momentum: Energy #1 YTD (+34.5%) but extended; Tech May standout (+10.6% MTD); Staples/Industrials/Materials clustered ~9–11% YTD; Utilities & Discretionary lagging
+- First trading day of week (Mon 5/25 Memorial Day holiday). Pre-market: quotes stale to Fri close, ETF spreads wide/untradeable
+
+### Trade Ideas
+- None executable. Book already aligned to momentum sectors (XLE/XLB/XLI/XLP). Gap: no Tech exposure (XLK) — note for next pre-market/weekly review as potential rotation, not an open-the-bell chase.
+- If Iran deal confirms, XLE extended — watch trailing stop; energy could mean-revert.
+
+### Risk Factors
+- No documented plan for today → no catalyst-vetted entry to execute (strategy: never trade without documented research)
+- Pre-market spreads wide; any new order would get poor fill → skip per STEP 2
+- S&P at ATH on 8-week streak → mean-reversion risk; energy concentration vs. peace-deal oil downside
+- TRADE-LOG stale (last entry Apr 18, predates current ETF book) — data-hygiene item for daily-summary, not a trade
+
+### Decision
+HOLD — no new orders. 4 positions within limits, 75.7% deployed (in 75–85% band), all stops live, worst position -2.7% (well above -7% cut). Patience > activity. Sources: [CNBC 5/22](https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html), [Motley Fool sectors](https://www.fool.com/investing/2026/05/23/the-sectors-leading-the-market-into-the-final-days/), [Morningstar rotation](https://www.morningstar.com/stocks/energy-industrials-stocks-take-lead-market-rotation-continues), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook)
