@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-26 — Pre-market Research
+
+### Account
+- Equity: $100,757.13 | Cash: $24,522.98 (24.3%) | Buying power: $125,280.11
+- Daytrade count: 0 | PDT: false
+- Deployed: $76,234 long mkt value = 75.7% (low end of 75–85% target)
+- Positions (4 sector ETFs, all with 10% trailing-stop GTCs):
+  - XLE 345sh @ $55.35 → $58.79 | +$1,187 (+6.2%) | stop $55.53 (hwm $61.70)
+  - XLP 220sh @ $83.74 → $84.79 | +$231 (+1.3%) | stop $78.03 (hwm $86.70)
+  - XLI 109sh @ $173.78 → $173.18 | −$65 (−0.3%) | stop $159.95 (hwm $177.72)
+  - XLB 363sh @ $52.40 → $50.75 | −$597 (−3.1%) | stop $47.49 (hwm $52.77)
+- Open orders: 4 GTC trailing stops (above). None within 3% of price; none triggered.
+
+### Market Context
+- WTI / Brent: WTI futures −5%+ in early trade; Brent ~$95–98. Oil plunging on US–Iran de-escalation (tentative ~2-mo ceasefire framework: US lifts blockade, Iran reopens Strait of Hormuz). EIA still flags a residual risk premium, sees oil ~$89/b by Q4.
+- S&P 500 futures: +0.5% to +0.9% premarket; Dow futures +~200. Polymarket implied ~91% open-higher.
+- VIX: 16.68 (−0.1%) — calm/complacent regime.
+- Catalysts: Trump says Iran talks "proceeding nicely" → risk-on relief rally; S&P Equal-Weight + Dow at fresh ATHs. Memory chips bid (MU +4.4%, SNDK +3% on FTSE Russell Value→Growth reclassification proposal). Tech 52-wk highs: ALAB, CRWD, DDOG.
+- Earnings: AZO before open; ZS after close (neither held). Tue after Memorial Day (markets closed Mon 5/25).
+- Economic calendar: Light Tue. Heavy Thu 5/28 / Fri 5/29 (month-end; PCE inflation print due Fri — Fed's preferred gauge).
+- Sector momentum YTD: Energy ~+20%, Materials ~+15.5%, Staples ~+12.3%, Industrials ~+12.1% — all four leaders = exactly my book. But leadership rotating: energy outperformance now unwinding as Hormuz premium deflates; growth/tech catching a bid.
+
+### Trade Ideas
+1. XLE — MANAGE, don't add. Thesis (Hormuz risk premium) is eroding with the ceasefire; oil heading toward ~$89/b. Position still +6.2% and protected by 10% trail ($55.53). Action for market-open/midday routine: consider tightening trail or trimming into strength rather than riding the full 10% giveback. No pre-market action.
+2. XLB — laggard at −3.1%, the weakest leg. Materials momentum intact YTD but watch for breakdown toward $47.49 stop; cut on any −7% manual trigger. No add.
+3. New exposure: HOLD off. Rotation favors growth/tech (XLK/SMH, memory names) but tech has lagged YTD and names are extended into 52-wk highs — chasing risk. Wait for a sector-momentum confirmation before deploying remaining ~24% cash. Quota: 3 new trades/wk available if a clean setup appears.
+
+### Risk Factors
+- Energy reversal: oil −5%+ could accelerate; XLE is my largest position (+6.2%) and most exposed to give-back if Hormuz fully reopens.
+- VIX 16.7 + S&P/Dow at ATHs → complacency, mean-reversion / sell-the-news risk if Iran deal disappoints.
+- Month-end PCE (Fri 5/29) is the week's key macro risk — a hot print could jolt rates and the rally.
+- Book is concentrated in cyclical/defensive ETFs (4 of the 4 YTD leaders); a leadership rotation into tech would leave me on the wrong side.
+- Under-deployed at 75.7% (low end of band) — opportunity cost if risk-on continues, but prudent given thesis flux.
+
+### Decision
+HOLD — no pre-market trades. Patience > activity. All 4 positions carry compliant 10% trailing-stop GTCs; none near trigger or below −7%. Primary watch: XLE energy thesis unwinding — defer any trim/tighten to the market-open routine. Sources: [TradingEconomics/Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [Benzinga/Polymarket open](https://www.benzinga.com/markets/prediction-markets/26/05/52769764/sp500-may-26-open-up-or-down-polymarket-iran-talks-oil-prices), [CNBC/futures](https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [ts2/market today](https://ts2.tech/en/stock-market-today-26-05-2026/), [Benzinga/earnings](https://www.benzinga.com/trading-ideas/long-ideas/26/05/52768847/autozone-zscaler-and-3-stocks-to-watch-heading-into-tuesday), [Schwab/sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [intellectia/Iran oil](https://intellectia.ai/blog/us-iran-ceasefire-oil-price-stock-market-rally-2026), [EIA STEO May 2026](https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf)
