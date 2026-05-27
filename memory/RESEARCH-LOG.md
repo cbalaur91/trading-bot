@@ -101,3 +101,36 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-27 — Pre-market Research (run inline at market-open; no prior entry)
+
+### Account
+- Equity: $100,516.18
+- Cash: $24,522.98 (24.4%)
+- Buying power: $125,039.16 regt / $62,519.58 non-marginable
+- Daytrade count: 0 (PDT: false)
+- Positions (75.6% deployed): XLB 363sh ($51.45, -1.8%), XLE 345sh ($57.37, +3.7%), XLI 109sh ($175.00, +0.7%), XLP 220sh ($83.86, +0.1%)
+- Open orders: 10% trailing-stop GTC on all 4 — XLB stop $47.49, XLE $55.53, XLI $159.95, XLP $78.03
+
+### Market Context
+- WTI / Brent: WTI ~$93.89, Brent ~$99.18 (-0.4%) — Iran/Hormuz tensions keep oil elevated
+- S&P 500 futures: +0.68% to ~7,524 (near ATH)
+- VIX: ~16.8 (calm regime)
+- Today's catalysts: Kevin Warsh sworn in as Fed Chair (policy-tone/event risk); US-Iran talks progress; April new home sales
+- Earnings before open: CRM, MRVL, SNOW, SNPS, DKS — NVDA already reported; earnings calendar thinning ahead
+- Economic calendar: April new home sales; Fed-chair transition headline
+- Sector momentum: Energy +22% & Materials +22% co-leaders; Staples & Industrials in leading quadrant; Healthcare flight-to-safety; Tech/Comm/Discretionary/Financials lagging. Breadth narrow (~10 names = 78% of YTD return).
+
+### Trade Ideas
+1. HOLD existing book — XLE/XLB/XLI/XLP map exactly onto the four leading-momentum sectors. Already aligned; let winners run under 10% trailing stops.
+2. XLV (Healthcare) — only leading-momentum sector not held; flight-to-safety bid. Candidate 5th position IF cash deploys, entry ~current, stop -8%, target +12% (1.5:1). Not today — no fresh catalyst, prefer dry powder into Fed-chair transition.
+3. No adds to existing ETFs — each already 18.4–19.7% of equity, at/near the 20% position cap.
+
+### Risk Factors
+- Fed-chair transition (Warsh oath today) — headline/policy-tone risk
+- Hormuz/Iran oil whipsaw — XLE both beneficiary and reversal risk
+- S&P near ATH on narrow breadth (~10 names = 78% YTD) → mean-reversion risk
+- Cash only 24.4%; deployment at low end of 75–85% band but all slots near cap
+
+### Decision
+HOLD — no market-open trades. Book is fully aligned with leading sector momentum, 75.6% deployed, all four positions protected by 10% trailing-stop GTCs and near the 20% cap. No documented fresh catalyst justifies a new position into a Fed-chair-transition session. Patience > activity. Sources: [TradingEconomics/Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [CNBC/oil-Iran](https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html), [Investing.com/S&P futures](https://www.investing.com/indices/us-spx-500-futures), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [Schwab/open-Warsh](https://www.schwab.com/learn/story/stock-market-update-open), [Investing.com/sector rotation](https://www.investing.com/analysis/sector-rotation-a-guide-to-the-sp-500-momentum-status-200675903), [Benzinga/breadth](https://www.benzinga.com/markets/equities/26/05/52631836/sp500-momentum-rally-historical-analysis-goldman-sachs-2026)
