@@ -101,3 +101,41 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-05-27 — Pre-market Research
+
+### Account
+- Equity: $100,130.13
+- Cash: $24,522.98 (24.5%)
+- Buying power: $124,653.11
+- Daytrade count: 0
+- Positions (4, all w/ live 10% trail GTC):
+  - XLB 363sh @ $52.40, now $51.00 → MV $18,513, -$507 (-2.66%), stop $47.49
+  - XLE 345sh @ $55.35, now $56.89 → MV $19,627, +$533 (+2.79%), stop $55.53 (hwm $61.70)
+  - XLI 109sh @ $173.78, now $174.90 → MV $19,064, +$122 (+0.65%), stop $159.95
+  - XLP 220sh @ $83.74, now $83.65 → MV $18,403, -$20 (-0.11%), stop $78.03
+- Deployed: 75.5% long / 24.5% cash — bottom of 75-85% target band
+
+### Market Context
+- WTI / Brent: WTI ~$90-94, Brent ~$94-99 — elevated; oil whipsawing on Iran-war/Hormuz headlines (IEA: North Sea Dated swung $144 → sub-$100 → ~$110; >14 mb/d Gulf supply shut in, unprecedented shock)
+- S&P 500 futures: +0.13% premarket; S&P closed record 7,519.12 (+0.61%) Tue 5/26. Polymarket ~61% open-higher
+- VIX: ~17 (prev close 17.01) — calm/complacent regime
+- Today's catalysts: Trump says Iran war ends "very quickly," Sec State sees "a little bit of movement" toward peace deal → energy reversal risk if Hormuz reopens. AI/tech leadership (Micron run) driving indices to records
+- Earnings: 52 reports today incl CRM, SNOW, MRVL, SNPS, HPQ, ANF (none of our ETF holdings)
+- Economic calendar: New Residential Sales 10:00 ET, Richmond Fed mfg 10:00, Dallas Fed retail 10:30. PCE inflation (April) Fri 5/28 — key event. No FOMC this week
+- Sector momentum YTD: Energy +22% clear leader (our XLE aligned). Materials ~+0.4%, Industrials ~+0.3%, Staples ~-1.0% — XLB/XLI/XLP are laggards vs broad S&P +9.7% YTD. Tech cooling at index level despite AI single-name strength
+
+### Trade Ideas
+1. XLE — HOLD, do not add. Best position (+2.79%), energy YTD leader on Hormuz supply shock. But Iran peace talks "proceeding nicely" = sharp reversal risk; trailing stop already tight at $55.53 (~2.4% below). Let the trail protect gains; no add into binary headline.
+2. Laggard rotation watch (XLB -2.66%, XLP -0.11%) — Materials/Staples trailing badly YTD. If momentum keeps fading, candidates to cut midday and recycle into a momentum sector. No pre-market action; flag for midday scan.
+3. Tech/AI (XLK or single name) — Micron-led rally, indices at records. Tempting but chasing at ATH with tech "cooling" at index level; only on a pullback that bases, entry w/ -7% stop, 2:1 target. Not today.
+
+### Risk Factors
+- Iran peace-deal headline could crater oil → XLE (largest, best position) reverses hard; oil already whipsawing 30%+ on headlines
+- S&P record highs + VIX ~17 complacency → mean-reversion / gap risk
+- PCE inflation print Fri 5/28 — repricing risk into the close of week
+- Two basket laggards (XLB, XLP) dragging; sector-momentum rule says watch for exit if they keep underperforming
+- XLE stop only ~2.4% below price; an open gap-down could stop us out (by design — locks +profit)
+
+### Decision
+HOLD — no pre-market action. Portfolio healthy: 4 positions, all with live 10% trailing-stop GTCs, none near -7%, 75.5% deployed. Patience > activity. Watch XLE for Iran headlines and flag XLB/XLP for the midday scan if momentum keeps fading. Sources: [TradingEconomics/Brent](https://tradingeconomics.com/commodity/brent-crude-oil), [IEA Oil Market Report May 2026](https://www.iea.org/reports/oil-market-report-may-2026), [CNBC markets 5/26](https://www.cnbc.com/2026/05/26/stock-market-today-live-updates.html), [Benzinga S&P 5/27](https://www.benzinga.com/markets/prediction-markets/26/05/52800148/sp500-may-27-open-up-or-down-polymarket-micron-ai-iran-talks), [FRED VIX](https://fred.stlouisfed.org/series/VIXCLS), [NY Fed econ calendar](https://www.newyorkfed.org/research/calendars/nationalecon_cal), [Schwab sector outlook](https://www.schwab.com/learn/story/stock-sector-outlook), [SlickCharts S&P YTD](https://www.slickcharts.com/sp500/returns/ytd)
