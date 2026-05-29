@@ -31,3 +31,13 @@ Trades today: none (Saturday, closed)
 Open: CIEN +1.39% | LITE -1.73% | SNDK -0.03%
 Stops: market sells queued Mon open on all 3
 Tomorrow: Sunday — no action; plan Monday redeploy at 15–20% sizes w/ GTC trails
+
+---
+## 2026-05-29 16:13 UTC
+Week ending May 29
+Portfolio: $99,822.60 (-0.85% week, -0.18% phase) vs S&P 500: +1.0%
+Trades: 0 (W:0 / L:0 / open:4 held)
+Best: XLE +2.0%
+Worst: XLB -2.0%
+One-line takeaway: Stops + deployment finally fixed, but a defensive sector basket lost ground while the index hit new highs — rotate into AI/tech leadership.
+Grade: C

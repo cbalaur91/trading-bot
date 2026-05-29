@@ -98,3 +98,63 @@ Friday reviews appended here. Template for each entry:
 ### Overall Grade: D
 
 Rationale: scaffold works and research is disciplined, but the first real trading window saw ~0% deployment into a +4.5% S&P week and stops-rule violated on all 3 opens. Saved from F only because the positions are tiny and losses immaterial.
+
+## Week ending 2026-05-29
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,681.23 (5/22 close; Mon 5/25 holiday) |
+| Ending portfolio | $99,822.60 |
+| Week return | -$858.63 (-0.85%) |
+| S&P 500 week | +1.0% (new record high Fri) |
+| Bot vs S&P | -1.85% |
+| Trades | 0 (W:0 / L:0 / open:4 held) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLE +2.03% (open) |
+| Worst trade | XLB -2.01% (open) |
+| Profit factor | n/a |
+
+### Closed Trades
+
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | No closed trades this week — 4 sector ETFs held, 0 fills |
+
+### Open Positions at Week End
+
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $52.40 | $51.35 | -$381.51 (-2.01%) | $47.49 (10% trail) |
+| XLE | $55.35 | $56.47 | +$387.79 (+2.03%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | $173.78 | $173.47 | -$33.42 (-0.18%) | $159.95 (10% trail) |
+| XLP | $83.74 | $83.05 | -$152.28 (-0.83%) | $78.03 (10% trail) |
+
+### What Worked
+- Deployment fixed: 75.4% invested ($75.3k / $99.8k) — squarely in the 75–85% target vs ~0% in week 1
+- Stops rule satisfied: all 4 positions carry real 10% trailing-stop GTC orders (the week-1 violation is corrected)
+- XLE thesis paid: energy leadership called in research is the week's winner (+2.0%); its trail ratcheted to hwm $61.70
+- Sizing disciplined: 4 sectors at ~$18–19k each (~19%), under the 20% cap
+- Patience > activity honored: 0 trades, no churn
+
+### What Didn't Work
+- Down week (-0.85%) while the S&P printed a new high (+1%) — relative underperformance again
+- Wrong sectors: basket is cyclical/defensive (XLB materials, XLP staples) and missed the AI/tech leadership (MSFT, ORCL, DELL +30%) that drove the index
+- XLB (-2.0%) and XLP (-0.8%) are dead weight; staples have no business in a record-high risk-on tape
+- Holding 4 sector ETFs ≈ owning the index with tracking error — structurally can't beat the S&P this way
+- XLE stop now only ~1.7% above price after the pullback from $61.70 — at risk of a near-breakeven stop-out
+
+### Key Lessons
+- To BEAT the S&P you need concentrated single-name conviction, not 4 slices of the index
+- Regime has flipped to AI/tech leadership (Anthropic raise, Dell +30%, Oracle +6%); the energy/materials/staples tilt is last quarter's trade
+- Risk plumbing (stops + deployment) is finally fixed — the edge now has to come from stock selection
+- Defensive sectors (XLP) don't belong in a risk-on, all-time-high market
+
+### Adjustments for Next Week
+- Rotate out of laggards: exit/trim XLP and XLB on any bounce; redeploy into tech/AI leadership where momentum actually is
+- Replace 1–2 sector ETFs with high-conviction single names (semis / AI infra) — express a thesis, don't buy the index
+- Keep XLE while above its stop (Hormuz risk premium intact) but mind the tight ~1.7% cushion
+- Respect the 3-trades/week cap — use them to rotate, not churn; maintain 75–85% deployment and same-session trailing stops
+
+### Overall Grade: C
+
+Rationale: process is now genuinely fixed — deployment in range, every position stopped, zero churn — a real step up from week 1's D. But the account lost money while the index hit a record high, weighed down by a defensive/cyclical sector basket that fights the AI-led tape. Good discipline, poor selection and result.

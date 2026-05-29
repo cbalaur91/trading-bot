@@ -44,6 +44,12 @@ case "$cmd" in
     status="${1:-open}"
     curl -fsS -H "$H_KEY" -H "$H_SEC" "$API/orders?status=$status"
     ;;
+  history)
+    period="${1:-1W}"
+    timeframe="${2:-1D}"
+    curl -fsS -H "$H_KEY" -H "$H_SEC" \
+      "$API/account/portfolio/history?period=$period&timeframe=$timeframe"
+    ;;
   order)
     body="${1:?usage: order '<json>'}"
     curl -fsS -H "$H_KEY" -H "$H_SEC" -H "Content-Type: application/json" \
@@ -64,7 +70,7 @@ case "$cmd" in
     curl -fsS -H "$H_KEY" -H "$H_SEC" -X DELETE "$API/positions"
     ;;
   *)
-    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|cancel|cancel-all|close|close-all> [args]" >&2
+    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|history|order|cancel|cancel-all|close|close-all> [args]" >&2
     exit 1
     ;;
 esac
