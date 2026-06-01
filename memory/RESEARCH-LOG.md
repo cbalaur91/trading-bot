@@ -101,3 +101,40 @@ HOLD — Saturday, market closed. Pending sells will execute Monday open. No pre
 
 ### Decision
 HOLD pre-market. Let queued sells fill at open, reset to 100% cash, then run market-open routine with fresh conviction. No chasing into geopolitical volatility. Risk-off posture — wait for clarity. Sources: [angle360ng/Brent](https://angle360ng.com/brent-crude-oil-price-today-april-20-2026/), [Yahoo/premarket](https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html), [Investing.com/VIX](https://www.investing.com/indices/volatility-s-p-500-historical-data), [Schwab/open](https://www.schwab.com/learn/story/stock-market-update-open), [CNBC/week](https://www.cnbc.com/2026/04/17/stock-market-next-week-outlook-for-april-20-24-2026.html), [Earnings Whispers](https://www.earningswhispers.com/calendar), [SPGlobal sectors](https://www.spglobal.com/spdji/en/documents/performance-reports/dashboard-us-sector.pdf), [Yahoo/SNDK ND100](https://finance.yahoo.com/quote/SNDK/)
+
+## 2026-06-01 — Pre-market Research
+
+### Account
+- Equity: $99,492.34
+- Cash: $24,522.98 (24.6%)
+- Buying power: $124,015.32
+- Daytrade count: 0
+- Deployment: 75.4% ($74,969 long market value) — low end of 75-85% target
+- Positions: XLB 363sh @ $52.40 ($18,448, -3.0%), XLE 345sh @ $55.35 ($19,534, +2.3%), XLI 109sh @ $173.78 ($18,792, -0.8%), XLP 220sh @ $83.74 ($18,196, -1.2%)
+- Open orders: 10% trailing stop GTC on all 4 — XLB stop $47.49 (hwm $52.77), XLE stop $55.53 (hwm $61.70), XLI stop $159.95 (hwm $177.72), XLP stop $78.03 (hwm $86.70)
+
+### Market Context
+- WTI / Brent: WTI ~$87.36 (-1.7%), Brent ~$92.05 (-1.8%); May ended down 16.2% on WTI; US-Iran strikes over weekend keep tail risk hot
+- S&P 500 futures: ES +0.3% pre-market; May closed at record highs, June carrying momentum
+- VIX: ~15.32, -2.7% — calm/complacent regime
+- Today's catalysts: Nvidia Computex keynote (new PC chip), Dell record earnings ($43.8B rev +88% YoY, $9.7B Pentagon contract), Taylor Morrison +22% on Berkshire $6.8B buyout, US-Iran strike exchange weekend, Israel deeper into Lebanon
+- Earnings before open: Light Monday; main events later this week — Broadcom, CrowdStrike, Five Below (Wed AMC)
+- Economic calendar: ISM Manufacturing & Construction Spending today; NFP Fri 6/5; CPI Wed 6/10; FOMC 6/16-17 (first meeting under new Chair Warsh — major event)
+- Sector momentum: XLE +32% YTD (Q2 -2%, cooling), XLB +19-22% YTD (top performer, breakout), XLP defensive leader, XLI +25% TTM (defense/aerospace heavy via CAT/GE/RTX/BA). Tech rallying on AI; staples + cyclical leadership intact
+
+### Trade Ideas
+1. HOLD all 4 sector ETFs — trailing stops are doing their job. XLE is our only winner (+2.3%) with a comfortable stop buffer; XLB lagging at -3.0% but well above stop. No reason to churn.
+2. Add 5th position candidate: XLK (Tech) — Nvidia/Dell AI tailwind, Computex catalyst, room before 5-6 cap. Entry on pullback only (S&P at ATH), stop -10%, target +15%. SKIP if it gaps up on Computex hype — no chasing.
+3. Defensive add candidate: XLU (Utilities) — second-worst Q2 along with energy, mean-reversion + low VIX = cheap hedge into FOMC 6/16. Wait for confirmed base.
+4. NO ACTION today — patience > activity. Quota: 3 new trades/week available, used 0. Wait for NFP Friday and FOMC clarity before re-deploying the remaining $24.5K cash.
+
+### Risk Factors
+- FOMC 6/16-17 is the dominant event of the month; new Chair Warsh = unknown reaction function → de-risk into it, don't load up now
+- S&P at record highs + VIX 15 = complacency; pullback risk asymmetric
+- US-Iran weekend strikes could reprice oil overnight either way; XLE = direct exposure but cushion is thin (+2.3%)
+- NFP Friday 6/5 — typical pre-print chop
+- XLB underwater 3% — watch if breaks $50 (just below current $50.82); stop is $47.49
+- Tech leadership reasserting (Nvidia/Dell) — staples/defensives may face rotation risk if AI rally sustains
+
+### Decision
+HOLD — full posture maintained. 4 leading-sector ETFs with 10% trail GTCs are the strategy expressing itself. Deployment at 75.4% is within target. No fresh catalyst justifies adding the 5th position pre-FOMC; preserve quota and dry powder. Re-evaluate post-NFP Friday. Sources: [TradingEconomics/WTI](https://tradingeconomics.com/commodity/crude-oil), [Yahoo/SPX live](https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-1-flat-225422503.html), [TheStreet/6-1](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-01-2026), [Yahoo/VIX](https://finance.yahoo.com/quote/%5EVIX/), [Bloomberg/premarket](https://www.bloomberg.com/news/articles/2026-06-01/us-stock-futures-today-nvidia-ibm-intel-microsoft-redwire), [Earnings Whispers](https://www.earningswhispers.com/calendar), [Fed FOMC cal](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), [SmartReversals/sectors](https://www.smartreversals.com/p/sector-rotation-a-guide-to-the-s), [BigGo/XLE](https://finance.biggo.com/news/4b7Ib5wByH9TLH6978yE), [MarketBeat/XLP](https://www.marketbeat.com/stock-ideas/consumer-staples-are-massively-outperforming-the-marketheres-why/)
